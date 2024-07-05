@@ -33,7 +33,6 @@ import illustrationsDark from "@src/assets/images/pages/register-v2-dark.svg";
 
 // ** Styles
 import "@styles/react/pages/page-authentication.scss";
-import { PhoneInput } from "react-contact-number-input";
 // ** Demo Components
 import { useFormik } from "formik";
 import * as yup from "yup";
@@ -293,13 +292,6 @@ const Subscribe = () => {
                 Phone Number
               </Label>
 
-              <PhoneInput
-                disabled={false}
-                containerClass="phone-number"
-                countryCode="us"
-                onChange={(e) => setPhoneNumber(e)}
-                placeholder="Enter Mobile Number"
-              />
               {phoneNumberError ? (
                 <FormFeedback type="invalid">{phoneNumberError}</FormFeedback>
               ) : null}
