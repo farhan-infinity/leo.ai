@@ -1,27 +1,21 @@
 import React, { useEffect } from "react";
-import { Container, Row, Col, Card, Modal } from "react-bootstrap";
+import { Container, Row, Col, Card } from "react-bootstrap";
 import useState from "react-usestateref";
 import axios from "axios";
-import { Link, useLocation, useNavigate } from "react-router-dom";
-import { BsSaveFill } from "react-icons/bs";
-import { RiDeleteBin6Line } from "react-icons/ri";
+import { useLocation } from "react-router-dom";
 import { Domain } from "../../utility/Domain";
 import BreadCrumbs from '../../@core/components/breadcrumbs'
-import DocumentSvg from "./svg/documentSvg";
-import DownloadSvg from "./svg/DownloadSvg";
+import DocumentSvg from "./svg/DocumentSvg.js";
+import DownloadSvg from "./svg/DownloadSvg.js";
 import DeleteSvg from "./svg/DeleteSvg";
 import toast from "react-hot-toast";
 import DangerIcon from "../../@core/assets/svg/dangerSvg"
 import CloseIcon from "../../@core/assets/svg/cancelSvg"
-import { useDispatch } from "react-redux";
 import WarningModal from "../../common/WarningModal";
-import { Button } from "reactstrap";
 import { ReactToast } from "../../@core/components/react-toast/ReactToast";
 import ComponentSpinner from "../../@core/components/spinner/Loading-spinner";
 
 const EditDoc = () => {
-  const navigate = useNavigate()
-  const dispatch = useDispatch()
   const location = useLocation();
   const [data, setData, dataRef] = useState();
 
