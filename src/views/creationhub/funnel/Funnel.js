@@ -1,3 +1,4 @@
+"use client"
 import React from "react";
 import { Container, Row, Col, Card } from "react-bootstrap";
 import { useNavigate, Link } from "react-router-dom";

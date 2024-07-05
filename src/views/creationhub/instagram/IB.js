@@ -1,3 +1,4 @@
+"use client"
 import React, { useEffect } from "react";
 import { Container, Row, Col, Card, Modal, Button } from "react-bootstrap";
 import useState from "react-usestateref";

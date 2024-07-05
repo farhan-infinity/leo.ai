@@ -32,6 +32,7 @@ import { useNavigate } from "react-router";
 import moment from "moment";
 import { SubscriptionModal } from "../../subscription-modal/SubscriptionModal";
 
+
 const BillingCurrentPlan = () => {
   const { skin, setSkin } = useSkin();
   const theming = `${skin === "dark" ? "#ffff" : "#177FFA"}`;
@@ -47,7 +48,6 @@ const BillingCurrentPlan = () => {
   const navigate = useNavigate();
 
   const handleConfirmCancel = async () => {
- 
   };
 
   useEffect(() => {

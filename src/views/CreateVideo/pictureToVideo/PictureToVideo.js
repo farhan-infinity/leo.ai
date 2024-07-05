@@ -1,3 +1,4 @@
+"use client"
 import { Card, CardBody, CardHeader, CardText, Container, Form, FormFeedback, Input, Spinner } from "reactstrap";
 import React, { useEffect, useRef, useState } from 'react';
 import { Row, Col, Nav, NavLink, TabContent, TabPane, Button, Label, InputGroup } from 'reactstrap';

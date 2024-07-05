@@ -1,3 +1,4 @@
+"use client"
 import React, { useState } from 'react'
 import { Container, Row, Col, Card, Button } from "react-bootstrap";
 import PictureToVideoSvg from '../svg/PictureToVideoSvg';

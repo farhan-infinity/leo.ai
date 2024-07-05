@@ -87,13 +87,25 @@ export default () => {
       }
     },
     build: {
+      chunkSizeWarningLimit: 100,
       rollupOptions: {
-        plugins: [rollupNodePolyFill()]
+        onwarn(warning, warn) {
+        if (warning.code === "MODULE_LEVEL_DIRECTIVE") {
+          return;
+        }
+        warn(warning);
       },
-      external: [
-        /^node:.*/,
+      },
+      
+      external: [            
+        'node:path',           
+        'node:https',
+        'node:http',
+        'node:zlib',
+        'node:*'
       ],
       minify: false,
+      plugins: [react()],
     }
   })
 }

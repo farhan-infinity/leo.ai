@@ -1,3 +1,4 @@
+"use client"
 import React from 'react'
 import { Container } from 'reactstrap'
 import BreadCrumbs from '../../@core/components/breadcrumbs'

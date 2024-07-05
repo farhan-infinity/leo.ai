@@ -1,3 +1,4 @@
+"use client"
 import React from 'react'
 import BreadCrumbs from '../../../@core/components/breadcrumbs'
 import { Container, Row, Col, Card } from "react-bootstrap";

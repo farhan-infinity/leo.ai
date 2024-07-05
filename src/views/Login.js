@@ -27,7 +27,7 @@ import {
   Spinner,
 } from "reactstrap";
 // ** Reactstrap Imports
-import GoggleWithLogin from "./GoggleWithLogin";
+// import GoggleWithLogin from "./GoggleWithLogin";
 // ** Styles
 import { LoginApi } from "../helpers/api/loginApi";
 
@@ -199,10 +199,6 @@ const Login = () => {
                   <div className="divider-text">or</div>
                 </div>
                 <div className="auth-footer-btn d-flex flex-column gap-1 justify-content-center">
-                  <GoggleWithLogin
-                    func={pull_data}
-                    buttonText="Login with Google"
-                  />
                   <Button
                    style={{
                     display: "flex",

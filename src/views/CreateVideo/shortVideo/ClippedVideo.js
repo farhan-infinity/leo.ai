@@ -1,3 +1,4 @@
+"use client"
 import React, { useEffect, useRef, useState } from 'react'
 import { Button, Col, Container, Row, Spinner } from 'reactstrap'
 import { v4 as uuidv4 } from 'uuid';

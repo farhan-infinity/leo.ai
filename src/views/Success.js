@@ -1,3 +1,4 @@
+"use client"
 import React, { useEffect } from "react";
 import Correct from "/img/success-green-check-mark-icon.png";
 import axiosInstace from "../helpers/api/axios";

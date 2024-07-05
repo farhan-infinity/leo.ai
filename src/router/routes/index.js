@@ -1,5 +1,6 @@
 // ** React Imports
 
+"use client"
 import { Fragment, lazy, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 // ** Layouts
@@ -35,63 +36,57 @@ const TemplateTitle = "%s - Leo AI"
 // ** Default Route
 const DefaultRoute = "/home"
 
-const Home = lazy(() => import("../../views/Home"))
-const CreateVideo = lazy(() => import("../../views/CreateVideo/CreateVideo"))
-const PictureToVideo = lazy(() => import("../../views/CreateVideo/pictureToVideo/PictureToVideo"))
-const TextToVideo = lazy(() => import("../../views/CreateVideo/textToVideo/TextToVideo"))
-const ShortVideo = lazy(() => import("../../views/CreateVideo/shortVideo/ShortVideo"))
-const ClippedVideo = lazy(() => import("../../views/CreateVideo/shortVideo/ClippedVideo"))
-const Gallery = lazy(() => import("../../views/CreateVideo/Gallery/Gallery"))
-const PictureGallery = lazy(() => import("../../views/CreateVideo/Gallery/PictureToVideoGallery"))
-const TextGallery = lazy(() => import("../../views/CreateVideo/Gallery/TextToVideoGallery"))
-const ShortGallery = lazy(() => import("../../views/CreateVideo/Gallery/ShortClipsGallery"))
-const ClipsGallery = lazy(() => import("../../views/CreateVideo/Gallery/ClipsGallery"))
+import Home from "../../views/Home"
+import CreateVideo from "../../views/CreateVideo/CreateVideo"
+import PictureToVideo from "../../views/CreateVideo/pictureToVideo/PictureToVideo"
+import TextToVideo from "../../views/CreateVideo/textToVideo/TextToVideo"
+import ShortVideo from "../../views/CreateVideo/shortVideo/ShortVideo"
+import ClippedVideo from "../../views/CreateVideo/shortVideo/ClippedVideo"
+import Gallery from "../../views/CreateVideo/Gallery/Gallery"
+import PictureGallery from "../../views/CreateVideo/Gallery/PictureToVideoGallery"
+import TextGallery from "../../views/CreateVideo/Gallery/TextToVideoGallery"
+import ShortGallery from "../../views/CreateVideo/Gallery/ShortClipsGallery"
+import ClipsGallery from "../../views/CreateVideo/Gallery/ClipsGallery"
 
 
-const Document = lazy(() => import("../../views/document/document.js"));
-const EditDoc = lazy(() => import("../../views/document/EditDoc.js"));
-const Instagram = lazy(() =>
-  import("../../views/creationhub/instagram/Instagram.js")
-);
-const Youtube = lazy(() =>
-  import("../../views/creationhub/youtube/Youtube.js")
-);
-const Facebook = lazy(() =>
-  import("../../views/creationhub/facebook/Facebook.js")
-);
-const Twitter = lazy(() =>
-  import("../../views/creationhub/twitter/Twitter.js")
-);
-const Blog = lazy(() => import("../../views/creationhub/blog/Blog.js"));
-const Tiktok = lazy(() => import("../../views/creationhub/tiktok/Tiktok.js"));
-const Ecommerce = lazy(() =>
-  import("../../views/creationhub/ecommerce/Ecommerce.js")
-);
-const Funnel = lazy(() => import("../../views/creationhub/funnel/Funnel.js"));
-const Command = lazy(() =>
-  import("../../views/creationhub/command/Command.js")
-);
+import Document from "../../views/document/document.js"
+import EditDoc from "../../views/document/EditDoc.js"
+import Instagram
+from "../../views/creationhub/instagram/Instagram.js"
+import Youtube
+from "../../views/creationhub/youtube/Youtube.js"
+import Facebook
+from "../../views/creationhub/facebook/Facebook.js"
+import Twitter
+from "../../views/creationhub/twitter/Twitter.js"
+import Blog from "../../views/creationhub/blog/Blog.js"
+import Tiktok from "../../views/creationhub/tiktok/Tiktok.js"
+import Ecommerce
+from "../../views/creationhub/ecommerce/Ecommerce.js"
+import Funnel from "../../views/creationhub/funnel/Funnel.js"
+import Command
+from "../../views/creationhub/command/Command.js"
 
-const Strategy = lazy(() => import("../../views/creationhub/funnel/Strategy.js"));
-const Copy = lazy(() => import("../../views/creationhub/funnel/Copy.js"));
-const ICP = lazy(() => import("../../views/creationhub/instagram/ICP.js"));
-const IB = lazy(() => import("../../views/creationhub/instagram/IB.js"));
-const IS = lazy(() => import("../../views/creationhub/instagram/IS.js"));
-const IPI = lazy(() => import("../../views/creationhub/instagram/IPI.js"));
-const YS = lazy(() => import("../../views/creationhub/youtube/YS.js"));
-const YT = lazy(() => import("../../views/creationhub/youtube/YT.js"));
-const YTI = lazy(() => import("../../views/creationhub/youtube/YTI.js"));
-const FAC = lazy(() => import("../../views/creationhub/facebook/FAC.js"));
-const TM = lazy(() => import("../../views/creationhub/twitter/TM.js"));
-const BP = lazy(() => import("../../views/creationhub/blog/BP.js"));
-const BPTI = lazy(() => import("../../views/creationhub/blog/BPTI.js"));
-const TCV = lazy(() => import("../../views/creationhub/tiktok/TCV.js"));
-const TS = lazy(() => import("../../views/creationhub/tiktok/TS.js"));
-const TVTI = lazy(() => import("../../views/creationhub/tiktok/TVTI.js"));
-const PD = lazy(() => import("../../views/creationhub/ecommerce/PD.js"));
-const HC = lazy(() => import("../../views/creationhub/ecommerce/HC.js"));
-const Any = lazy(() => import("../../views/creationhub/command/Any.js"));
-const Success = lazy(() => import("../../views/Success.js"));
+import Strategy from "../../views/creationhub/funnel/Strategy.js"
+import Copy from "../../views/creationhub/funnel/Copy.js"
+import ICP from "../../views/creationhub/instagram/ICP.js"
+import IB from "../../views/creationhub/instagram/IB.js"
+import IS from "../../views/creationhub/instagram/IS.js"
+import IPI from "../../views/creationhub/instagram/IPI.js"
+import YS from "../../views/creationhub/youtube/YS.js"
+import YT from "../../views/creationhub/youtube/YT.js"
+import YTI from "../../views/creationhub/youtube/YTI.js"
+import FAC from "../../views/creationhub/facebook/FAC.js"
+import TM from "../../views/creationhub/twitter/TM.js"
+import BP from "../../views/creationhub/blog/BP.js"
+import BPTI from "../../views/creationhub/blog/BPTI.js"
+import TCV from "../../views/creationhub/tiktok/TCV.js"
+import TS from "../../views/creationhub/tiktok/TS.js"
+import TVTI from "../../views/creationhub/tiktok/TVTI.js"
+import PD from "../../views/creationhub/ecommerce/PD.js"
+import HC from "../../views/creationhub/ecommerce/HC.js"
+import Any from "../../views/creationhub/command/Any.js"
+import Success from "../../views/Success.js"
 
 // ** Merge Routes
 
@@ -371,6 +366,9 @@ const MergeLayoutRoutes = (layout, defaultLayout) => {
     } else if (!isLoggedIn && location.pathname !== "/login" && location.pathname !== "/forgot-password" && location.pathname !== "/register" && location.pathname !== "/reset-password") {
       location.replace("/login");
       return;
+    }
+    if(location.pathname === "/"){
+      location.replace("/login")
     }
   }, []);
 
