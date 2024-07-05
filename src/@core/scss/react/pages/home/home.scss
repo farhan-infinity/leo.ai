@@ -1,0 +1,256 @@
+.card {
+  // height: 170px;
+  border: 0;
+  border-radius: 1rem;
+}
+
+.progress-bar {
+  margin-top: 12px;
+  height: 10px;
+  width: 100%;
+  background-color: #dfdfdf;
+  border-radius: 10px;
+}
+.progress-chart {
+  display: inline-block;
+  height: 100%;
+
+  background: #177ffa 45.61%;
+}
+
+.card-main-layout {
+  // background-color: white;
+  border-radius: 20px;
+}
+.bg-primary {
+  position: relative;
+}
+.robot-img {
+  max-height: 168px;
+}
+.robot-img-box {
+  position: absolute;
+  right: 0px;
+}
+.card-bg {
+  background-color: #ffffff;
+  box-shadow: 0px 4px 18px rgba(75, 70, 92, 0.1);
+  border-radius: 20px;
+  flex: none;
+  order: 0;
+  flex-grow: 1;
+}
+.card-res {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 23px;
+}
+.clockImg {
+  min-width: 60%;
+}
+.time-font {
+  padding-left: 5px;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 22px;
+}
+.hour-font {
+  padding-left: 0;
+  padding-top: 0;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 22px;
+}
+.cardTitle {
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 24px;
+}
+.text-success {
+  font-size: 13px;
+}
+.cardSubTitle {
+  // font-weight: 400;
+  font-size: 13px;
+  line-height: 15px;
+}
+.cardText {
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 24px;
+}
+.border-end {
+  height: 70px !important;
+}
+.card-content-1 {
+  // padding: 0 !important;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.card-content-2 {
+  padding-right: 0px;
+}
+.card-content-2 p {
+  text-align: end;
+}
+.invitation-card {
+  padding-left: 0px;
+  background-color: white;
+  border-radius: 20px;
+}
+
+.dark-layout {
+  .apexcharts-gridline {
+    stroke: rgba(239, 239, 239, 0.1) !important;
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+  .card-bg {
+    padding: 13px !important;
+  }
+  .card-res {
+    gap: 12px;
+  }
+}
+
+@media only screen and (max-width: 575px) {
+  .card-res {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+  }
+  .mainContainer {
+    margin: 0;
+  }
+  .robot-img {
+    width: 168px;
+    height: 168px;
+  }
+  .robot-img-box {
+    right: -25px;
+    max-width: 70%;
+    display: flex;
+    align-items: center;
+    margin-left: 0 !important;
+  }
+  .card-content {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .card-content-1 {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    border-right: none !important;
+    border-bottom: 1px solid #dbdade;
+  }
+  .card-content-2 {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    text-align: center;
+  }
+  .card-div {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+  }
+  .card-div-2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .dashboard-col1 {
+    grid-area: item1;
+  }
+  .dashboard-col2 {
+    grid-area: item2;
+  }
+  .dashboard-col3 {
+    grid-area: item3;
+  }
+  .dashboard-col3 {
+    grid-area: item4;
+  }
+  .dashboard-col3 {
+    grid-area: item5;
+  }
+
+  .clockImg {
+    min-width: 100%;
+  }
+  .height {
+    width: 200px;
+  }
+}
+@media only screen and (max-width: 420px) {
+  .card-div {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .card-main-layout {
+    margin-top: 20px;
+  }
+  .invitation-card {
+    margin-top: 25px;
+  }
+}
+
+.dashboard-row1 {
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr;
+  grid-template-areas: "item1 item2 item3";
+}
+.dashboard-row2 {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  grid-template-areas: "item4 item5";
+}
+.scrollbar {
+  &::-webkit-scrollbar {
+    -webkit-appearance: none;
+    width: 0;
+    height: 0;
+  }
+}
+
+@media only screen and (max-width: 1440px) {
+  .card-content-2 {
+    padding-left: 2px;
+  }
+  .progress-bar {
+    margin-top: 44px;
+  }
+  .card-content {
+    margin-top: 10px;
+  }
+}
+@media only screen and (max-width: 1024px) {
+  .dashboard-row1 {
+    display: grid;
+    gap: 10px;
+    grid-template-areas:
+      "item1 "
+      "item2 "
+      "item3 ";
+    grid-template-columns: 1fr;
+
+    grid-template-rows: 1fr 1fr 1fr;
+  }
+  .dashboard-row2 {
+    display: grid;
+    gap: 10px;
+    grid-template-areas:
+      "item4 "
+      "item5 ";
+    grid-template-columns: 1fr;
+  }
+}

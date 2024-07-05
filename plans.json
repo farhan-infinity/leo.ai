@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "63e92c930b0d6a22ad55303a"
+  },
+  "amount": 47,
+  "name": "Creator Monthly Plan",
+  "description": "CREATOR monthly plan is designed for individual content creators who want to build their online presence and grow their audience. This plan provides access to tools and features that enable creators to publish content on various platforms, including social media, blogs, and websites. The plan typically includes features such as analytics, SEO optimization, social media scheduling, and content creation tools. The CREATOR plan is ideal for freelancers, influencers, and bloggers who want to manage their online presence efficiently.",
+  "credit": 20000,
+  "priceId":"price_1NEUInLZN4yST3GawS5aXQo2",
+  "slug": "creator_monthly_plan",
+  "images": []
+},{
+  "_id": {
+    "$oid": "63e937ca0b0d6a22ad553042"
+  },
+  "amount": 0,
+  "name": "Free Trial",
+  "description": "A free trial is a promotional offer that allows potential customers to try a product or service for a limited period of time without paying for it. Typically, a free trial period ranges from a few days to a month, during which users can explore the features and benefits of a product or service before deciding whether to make a purchase.",
+  "credit": 1000,
+  "slug": "trail_plan",
+  "images": []
+},{
+  "_id": {
+    "$oid": "640c29f4e213274e82a68a44"
+  },
+  "amount": 197,
+  "name": "Agency Monthly Plan",
+  "description": "AGENCY monthly plan is tailored for businesses that offer marketing or advertising services to clients. This plan typically includes advanced features such as team collaboration tools, custom branding options, advanced analytics, and client management features. The AGENCY plan allows marketing agencies to streamline their workflow and manage multiple clients from a single dashboard. This plan is ideal for marketing agencies, digital marketing firms, and advertising agencies.",
+  "credit": 100000,
+  "priceId":"price_1NEVJBLZN4yST3Ga4UdFxvCb",
+  "slug": "agency_monthly_plan",
+  "images": []
+},{
+  "_id": {
+    "$oid": "640c2a5ee213274e82a68a46"
+  },
+  "amount": 497,
+  "name": "Company Monthly Plan",
+  "description": "COMPANY monthly plan is designed for small to medium-sized businesses that want to manage their online presence and improve their digital marketing efforts. This plan typically includes features such as website builders, email marketing tools, social media management tools, and basic analytics. The COMPANY plan allows businesses to create and manage their website, email campaigns, and social media presence from a single platform. This plan is ideal for startups, small businesses, and medium-sized enterprises that want to improve their online presence and attract more customers.",
+  "credit": 500000,
+  "priceId":"price_1NEVKMLZN4yST3GaiLWrlaKs",
+  "slug": "company_monthly_plan",
+  "images": []
+}]

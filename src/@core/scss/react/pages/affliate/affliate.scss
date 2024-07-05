@@ -1,0 +1,159 @@
+.affliate-card-subContent1 {
+  background: #177ffa;
+  // box-shadow: 0px 4px 18px rgba(75, 70, 92, 0.1);
+  border-radius: 23px;
+}
+.affliate-card-subContent2 {
+  // box-shadow: 0px 4px 18px rgba(75, 70, 92, 0.1);
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.426);
+  border-radius: 23px;
+}
+.affliate-card-content1 {
+  // box-shadow: 0px 4px 18px rgba(75, 70, 92, 0.1);
+  border-radius: 6px;
+  display: grid;
+  border-radius: 23px;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 59px;
+  background: rgba(255, 255, 255, 0.39);
+  border: 2px solid #ffffff;
+  padding: 21px 66px;
+}
+.border-affliate-card {
+  border: 2px solid white;
+  border-radius: 20px;
+  padding: 13px;
+  background: rgba(255, 255, 255, 0.39);
+  border: 2px solid #ffffff;
+}
+.analitics-card {
+  // box-shadow: 0px 4px 18px rgba(75, 70, 92, 0.1);
+  border-radius: 6px;
+  border-radius: 20px;
+  background: rgba(255, 255, 255, 0.39);
+  border: 2px solid #ffffff;
+}
+// .copyLink-button {
+//   background: #edf5ff;
+//   border: 2px solid #ffffff;
+//   // box-shadow: 0px 1px 2px rgba(165, 163, 174, 0.17);
+//   border-radius: 10px;
+//   padding: 10px 31px;
+// }
+// .openPromoter-button {
+//   background: #177ffa;
+//   border: 2px solid #ffffff;
+//   // box-shadow: 0px 1px 2px rgba(165, 163, 174, 0.17);
+//   border-radius: 10px;
+//   padding: 10px 13px;
+// }
+.button-box {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  padding-top: 10px;
+  gap: 14px;
+  .copyLink-button {
+    cursor: pointer;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    text-align: center;
+    line-height: 19px;
+    background: #edf5ff;
+    border: 2px solid #ffffff;
+    border-radius: 10px;
+    padding: 10px 31px;
+  }
+  .openPromoter-button {
+    cursor: pointer;
+    font-weight: 400;
+    font-size: 14px;
+    color: white;
+    line-height: 19px;
+    text-align: center;
+    background: #177ffa;
+    border: 2px solid #ffffff;
+    border-radius: 10px;
+    padding: 10px 13px;
+  }
+}
+.analitics-text {
+  padding-top: 22px;
+}
+.img {
+  width: 22px;
+  height: 22px;
+}
+.leadsIcon-box {
+  background: #cbe3ff;
+  border-radius: 16px;
+  padding: 18px;
+}
+
+.signUpsIcon-box {
+  background: #d1ffd9;
+  border-radius: 16px;
+  padding: 18px;
+}
+.customersIcon-box {
+  background: #c7c8ff;
+  border-radius: 16px;
+  padding: 18px;
+}
+.totalEarningIcon-box {
+  background: #ffb1c1;
+  border-radius: 16px;
+  padding: 18px;
+}
+.analiticsIcon-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 25px;
+  padding-top: 25px;
+  padding-bottom: 58px;
+}
+.analitics-box {
+  background: #edf5ff;
+  border-radius: 23px;
+  padding: 8px;
+  display: flex;
+  flex-direction: row;
+}
+.font-box {
+  font-family: "Hauora_Regular";
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 22px;
+}
+.iconText-box {
+  padding-left: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  text-align: center;
+}
+.boldFont-box {
+  font-weight: 600;
+  font-size: 22px;
+}
+
+@media only screen and (max-width: 768px) {
+  .affliate-card-content1 {
+    display: flex;
+    flex-direction: column;
+  }
+  .analiticsIcon-container {
+    display: flex;
+    flex-direction: column;
+  }
+}
+@media only screen and (max-width: 575px) {
+  .button-box {
+    display: flex;
+    flex-direction: column;
+  }
+}

@@ -1,0 +1,58 @@
+.avtar-bg-div {
+  background-color: transparent;
+  border: 1px solid #efefef;
+  border-radius: 35px;
+  padding: 5px;
+}
+.button-bg-div {
+  background-color: transparent;
+  border: 1px solid #efefef;
+  border-radius: 23px;
+}
+.upload-photo-button {
+  margin: 6px;
+  font-size: 15px;
+}
+.btn-primary {
+  border-radius: 20px;
+}
+.reset-button {
+  background-color: #dbebff !important;
+  border: none !important;
+  color: #000000 !important;
+  margin: 6px;
+  font-size: 15px;
+}
+.btn-secondary {
+  border-radius: 20px;
+}
+.deactive-account-button {
+  background-color: #dbebff !important;
+  border: none !important;
+  color: #177ffa !important;
+  margin: 6px;
+  font-size: 15px;
+}
+.btn-danger {
+  border-radius: 13px;
+}
+
+.input-content {
+  border-radius: 23px;
+  // padding: 20px 20px 20px 20px;
+  border-color: #fff;
+
+  .react-select {
+    // padding: 11px 20px !important;
+    border-radius: 26px;
+    .select__control {
+      border: none;
+    }
+  }
+
+  .input-child {
+    padding: 20px;
+    box-shadow: 0px 12px 45px rgba(23, 127, 250, 0.03);
+    border-radius: 23px;
+  }
+}

@@ -1,0 +1,53 @@
+@font-face {
+  font-family: "Archivo";
+  src: url("../../public/fonts/archivo_condensed-regular-webfont.woff")
+      format("woff2"),
+    url("../../public/fonts/archivo_condensed-regular-webfont.woff2")
+      format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Hauora_Regular";
+  src: url("/fonts/Hauora-Regular.woff") format("woff2"),
+    url("/fonts/Hauora-Regular.woff2") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "hauora_medium";
+  src: url("/fonts/Hauora-SemiBold.woff") format("woff2"),
+    url("/fonts/Hauora-SemiBold.woff2") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.font-hauora-regular {
+  font-family: "Hauora_Regular", sans-serif;
+}
+
+.font-hauora-medium {
+  font-family: "hauora_medium", sans-serif;
+}
+
+.form-label,
+.form-control,
+p,
+span,
+label,
+small,
+.select__input {
+  font-family: "Hauora_Regular", sans-serif;
+}
+
+.alert-heading,
+.breadcrumb-item,
+.content-header-title {
+  font-family: "hauora_medium", sans-serif;
+}
+
+.alert-body {
+  font-family: "Hauora_Regular", sans-serif;
+}

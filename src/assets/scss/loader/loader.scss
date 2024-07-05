@@ -1,0 +1,24 @@
+.loader-container {
+  min-height: 80vh;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+  .loader {
+    position: relative;
+    display: flex;
+    justify-content: center;
+  }
+  .loader-img {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    bottom: -90%;
+  }
+  .robot-loader-img {
+    width: 130px;
+    height: 140.83px;
+  }
+}

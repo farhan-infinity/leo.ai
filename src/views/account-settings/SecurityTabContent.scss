@@ -1,0 +1,40 @@
+.security-main-content {
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 4px 24px 0 rgba(34, 41, 47, 0.1);
+  background-color: #ffff;
+  border-radius: 20px;
+  margin-bottom: 2rem;
+  padding: 10px 10px 100px 10px;
+
+  .profile-content {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    color: #177ffa;
+    margin: 20px;
+  }
+  .input-content {
+    border-radius: 23px;
+    padding: 20px 20px 20px 20px;
+
+    .input-child {
+      padding: 20px;
+      box-shadow: 0px 12px 45px rgba(23, 127, 250, 0.03);
+      border-radius: 23px;
+    }
+  }
+  .list-content {
+    margin: 10px;
+    ul {
+      li {
+        list-style-type: disc;
+        font-weight: 500;
+        font-size: 18px;
+      }
+    }
+  }
+  .btn-content {
+    margin: 20px;
+  }
+}

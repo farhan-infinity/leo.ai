@@ -1,0 +1,65 @@
+@import "../../../base/bootstrap-extended/include";
+@import "../../../base/components/include";
+@import "../../../base/core/colors/palette-variables";
+
+.react-hot-toast {
+  width: auto;
+  min-width: 50px;
+  max-width: fit-content;
+  background-image: linear-gradient(
+    103.66deg,
+    rgba(134, 183, 243, 0.95) 3.63%,
+    rgba(204, 217, 251, 0.95) 48.46%,
+    rgba(242, 215, 250, 0.95) 94.8%
+  );
+  color: $body-color;
+  box-shadow: 0px 4px 10px -4px rgb(58 53 65 / 60%);
+  border-radius: $border-radius;
+  div {
+    font-family: Arial, Helvetica, sans-serif;
+    .toast-body {
+      width: auto;
+      min-width: 50px;
+      position: relative;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 20px;
+      gap: 20px;
+      .toast-message {
+        padding: 0 10px 0 0;
+        font-family: Arial, Helvetica, sans-serif;
+        color: #177ffa;
+        // text-align: center;
+        letter-spacing: 0.14px;
+        font-size: 20px;
+        font-weight: 600;
+      }
+      .toast-button-container {
+        position: absolute;
+        top: 4px;
+        right: 10px;
+        .toast-button {
+          border: none;
+          background-color: transparent;
+        }
+      }
+    }
+  }
+}
+
+// Dark Layout
+.dark-layout {
+  .react-hot-toast {
+    background-image: linear-gradient(
+      103.66deg,
+      rgba(0, 0, 0, 0.95) 3.63%,
+      rgba(44, 47, 53, 0.95) 48.46%,
+      rgba(81, 30, 97, 0.95) 94.8%
+    );
+    color: $theme-dark-body-color;
+    background: $theme-dark-card-bg;
+    border: 1px solid $theme-dark-border-color;
+    box-shadow: 0px 8px 16px -4px rgb(19 17 32 / 65%);
+  }
+}
