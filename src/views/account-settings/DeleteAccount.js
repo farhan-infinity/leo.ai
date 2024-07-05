@@ -13,10 +13,8 @@ import {
 } from "reactstrap";
 import { useSkin } from "@hooks/useSkin";
 // ** Third Party Components
-import Swal from "sweetalert2";
 import classnames from "classnames";
 import { useForm, Controller } from "react-hook-form";
-import withReactContent from "sweetalert2-react-content";
 
 // ** Styles
 import "@styles/base/plugins/extensions/ext-component-sweet-alerts.scss";
@@ -30,7 +28,6 @@ const defaultValues = {
   confirmCheckbox: false,
 };
 
-const MySwal = withReactContent(Swal);
 
 const DeleteAccount = () => {
   // ** Hooks
@@ -49,26 +46,6 @@ const DeleteAccount = () => {
   });
 
   const handleConfirmDelete = async () => {
-    const result = await MySwal.fire({
-      title: "Are you sure?",
-      text: "Are you sure you would like to deactivate your account?",
-      icon: "warning",
-      showCancelButton: true,
-      confirmButtonText: "Yes, deactivated!",
-      customClass: {
-        confirmButton: "btn btn-primary",
-        cancelButton: "btn btn-danger ms-1",
-      },
-      buttonsStyling: false,
-    });
-
-    if (!result.isConfirmed) return;
-
-    const res = await AuthApi.deactivateAccount();
-
-    if (res.success) {
-      location.reload();
-    }
   };
 
   const onSubmit = (data) => {
