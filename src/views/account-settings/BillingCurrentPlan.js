@@ -35,7 +35,7 @@ import { SubscriptionModal } from "../../subscription-modal/SubscriptionModal";
 
 const BillingCurrentPlan = () => {
   const { skin, setSkin } = useSkin();
-  const theming = `${skin === "dark" ? "#ffff" : "#177FFA"}`;
+  const theming = `${skin === "dark" ? "#ffff" : "#93785B"}`;
   const background = `${skin === "dark" ? "#0000" : "#EDF5FF"}`;
   // ** States
   const [show, setShow] = useState(false);

@@ -7,9 +7,9 @@ import PauseSvg from "./svg/PauseSvg";
 
 const formWaveSurferOptions = (ref) => ({
     container: ref,
-    waveColor: "#177ffa",
-    progressColor: "#177ffa",
-    cursorColor: "#177ffa",
+    waveColor: "#93785B",
+    progressColor: "#93785B",
+    cursorColor: "#93785B",
     barWidth: 3,
     barRadius: 3,
     responsive: true,

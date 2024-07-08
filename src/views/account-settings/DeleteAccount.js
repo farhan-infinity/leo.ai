@@ -38,7 +38,7 @@ const DeleteAccount = () => {
     formState: { errors },
   } = useForm({ defaultValues });
   const { skin, setSkin } = useSkin();
-  const theming = `${skin === "dark" ? "#ffff" : "#177FFA"}`;
+  const theming = `${skin === "dark" ? "#ffff" : "#93785B"}`;
   const background = `${skin === "dark" ? "#0000" : "#EDF5FF"}`;
 
   const [state, setState] = useState({

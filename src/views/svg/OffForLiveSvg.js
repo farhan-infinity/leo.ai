@@ -21,7 +21,7 @@ const OffForLiveSvg = () => {
             <defs>
                 <linearGradient id="paint0_linear_1583_112954" x1="21.0621" y1="-1.58794" x2="40.4632" y2="41.7664" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.21" stopColor="#177FFA" />
+                    <stop offset="0.21" stopColor="#93785B" />
                     <stop offset="0.6" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -39,7 +39,7 @@ const OffForLiveSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint4_linear_1583_112954" x1="8.61212" y1="11.7922" x2="24.7556" y2="47.8662" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.21" stopColor="#177FFA" />
+                    <stop offset="0.21" stopColor="#93785B" />
                     <stop offset="0.6" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -49,7 +49,7 @@ const OffForLiveSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint6_linear_1583_112954" x1="42.1721" y1="25.5257" x2="26.758" y2="-0.210834" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.21" stopColor="#177FFA" />
+                    <stop offset="0.21" stopColor="#93785B" />
                     <stop offset="0.6" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>

@@ -92,7 +92,7 @@ const BillingAddress = () => {
     }
   });
   const { skin, setSkin } = useSkin();
-  const theming = `${skin === "dark" ? "#ffff" : "#177FFA"}`;
+  const theming = `${skin === "dark" ? "#ffff" : "#93785B"}`;
 
   const onSubmit = (data) => {
     let formData = new FormData()

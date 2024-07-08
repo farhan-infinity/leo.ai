@@ -8,7 +8,7 @@ const SettingSvg = () => {
             <defs>
                 <linearGradient id="paint0_linear_1572_112984" x1="-12.559" y1="16" x2="31" y2="16" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#1970D7" />
-                    <stop offset="1" stopColor="#177FFA" />
+                    <stop offset="1" stopColor="#93785B" />
                 </linearGradient>
             </defs>
         </svg>

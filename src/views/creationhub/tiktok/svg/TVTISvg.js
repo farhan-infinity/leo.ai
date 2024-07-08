@@ -21,13 +21,13 @@ const TVTISvg = () => {
                     <defs>
                         <linearGradient id="paint0_linear_1803_112912" x1="4.0359" y1="34.5" x2="49" y2="34.5" gradientUnits="userSpaceOnUse">
                             <stop stopColor="#1970D7" />
-                            <stop offset="1" stopColor="#177FFA" />
+                            <stop offset="1" stopColor="#93785B" />
                         </linearGradient>
                     </defs>
                 </svg>
             ) : (
                 <svg width="66" height="68" viewBox="0 0 66 68" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <rect width="66" height="68" rx="33" fill="#177FFA" fillOpacity="0.11" />
+                    <rect width="66" height="68" rx="33" fill="#93785B" fillOpacity="0.11" />
                     <rect x="17" y="19" width="32" height="31" rx="6" fill="url(#paint0_linear_1571_112975)" />
                     <path d="M30.8866 38.6379C31.0505 38.6379 31.1833 38.5051 31.1833 38.3412C31.1833 38.1773 31.0505 38.0444 30.8866 38.0444C30.7227 38.0444 30.5898 38.1773 30.5898 38.3412C30.5898 38.5051 30.7227 38.6379 30.8866 38.6379Z" stroke="white" strokeWidth="0.8" strokeLinecap="round" stroke-linejoin="round" />
                     <path d="M35.1717 38.6384C35.3356 38.6384 35.4685 38.5056 35.4685 38.3417C35.4685 38.1778 35.3356 38.0449 35.1717 38.0449C35.0079 38.0449 34.875 38.1778 34.875 38.3417C34.875 38.5056 35.0079 38.6384 35.1717 38.6384Z" stroke="white" strokeWidth="0.8" strokeLinecap="round" stroke-linejoin="round" />
@@ -58,7 +58,7 @@ const TVTISvg = () => {
                     <defs>
                         <linearGradient id="paint0_linear_1571_112975" x1="4.0359" y1="34.5" x2="49" y2="34.5" gradientUnits="userSpaceOnUse">
                             <stop stopColor="#1970D7" />
-                            <stop offset="1" stopColor="#177FFA" />
+                            <stop offset="1" stopColor="#93785B" />
                         </linearGradient>
                     </defs>
                 </svg>

@@ -65,7 +65,7 @@ const BillingHistory = () => {
   const [creditPage, setCreditPage] = useState(1)
   const [billingTotalPages, setBillingTotalPages] = useState(null)
   const [creditTotalPages, setCreditTotalPages] = useState(null)
-  const theming = `${skin === "dark" ? "#ffff" : "#177FFA"}`;
+  const theming = `${skin === "dark" ? "#ffff" : "#93785B"}`;
   const { billHis, billHisLoading, billHisError } = useSelector(state => state.billing)
   const { creditHis, creditHisLoading, creditHisError } = useSelector(state => state.billing)
 

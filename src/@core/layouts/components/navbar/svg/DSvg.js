@@ -8,13 +8,13 @@ const DSvg = () => {
         <>
             {skin === 'light' ? (
                 <svg key={uuidv4()} width="56" height="58" viewBox="0 0 68 70" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <rect width="68" height="70" rx="34" fill="#177FFA" fillOpacity="0.11" />
+                    <rect width="68" height="70" rx="34" fill="#93785B" fillOpacity="0.11" />
                     <rect x="18" y="20" width="32" height="31" rx="6" fill="url(#paint0_linear_1413_112953)" />
                     <path d="M29.7796 38.3252C24.4483 38.9096 25.0407 32.4817 29.7796 33.0661C28.0025 26.6382 38.0727 26.6382 37.4803 31.313C43.4039 29.56 43.4039 38.9096 38.0727 38.3252M30.9643 40.6626L33.9261 43M33.9261 43L36.8879 40.6626M33.9261 43V34.8191" stroke="#AFD0F6" strokeWidth="1.5" strokeLinecap="round" stroke-linejoin="round" />
                     <defs>
                         <linearGradient id="paint0_linear_1413_112953" x1="5.0359" y1="35.5" x2="50" y2="35.5" gradientUnits="userSpaceOnUse">
                             <stop stopColor="#1970D7" />
-                            <stop offset="1" stopColor="#177FFA" />
+                            <stop offset="1" stopColor="#93785B" />
                         </linearGradient>
                     </defs>
                 </svg>
@@ -27,7 +27,7 @@ const DSvg = () => {
                     <defs>
                         <linearGradient id="paint0" x1="5.0359" y1="35.5" x2="50" y2="35.5" gradientUnits="userSpaceOnUse">
                             <stop stopColor="#1970D7" />
-                            <stop offset="1" stopColor="#177FFA" />
+                            <stop offset="1" stopColor="#93785B" />
                         </linearGradient>
                     </defs>
                 </svg>

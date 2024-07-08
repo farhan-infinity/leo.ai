@@ -71,14 +71,14 @@ const NotificationDropdown = ({ skin, notificationData }) => {
         <ul className="dropdown-menu-list">
           <span className="dropdown-menu-header">
             <DropdownItem className="d-flex" header>
-              <div className="notification-title d-flex gap-1" style={{ color: "#177ffa", fontWeight: "600", fontSize: "20px" }}>
+              <div className="notification-title d-flex gap-1" style={{ color: "#93785B", fontWeight: "600", fontSize: "20px" }}>
                 <div>
                   Notifications
                 </div>
                 <div>
                   <svg width="18" height="18" viewBox="0 0 20 22" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path fillRule="evenodd" clipRule="evenodd" d="M7.33333 2.44444C7.33333 1.09441 8.42775 0 9.77778 0C11.1278 0 12.2222 1.09441 12.2222 2.44444C15.0824 3.7969 16.9628 6.61741 17.1111 9.77778V13.4444C17.2976 14.9854 18.2049 16.3462 19.5556 17.1111H0C1.3507 16.3462 2.25792 14.9854 2.44444 13.4444V9.77778C2.59278 6.61741 4.47313 3.7969 7.33333 2.44444Z" fill="#177FFA" />
-                    <path fillRule="evenodd" clipRule="evenodd" d="M6.10938 17.1111V18.3333C6.10938 20.3584 7.751 22 9.77604 22C11.8011 22 13.4427 20.3584 13.4427 18.3333V17.1111" fill="#177FFA" />
+                    <path fillRule="evenodd" clipRule="evenodd" d="M7.33333 2.44444C7.33333 1.09441 8.42775 0 9.77778 0C11.1278 0 12.2222 1.09441 12.2222 2.44444C15.0824 3.7969 16.9628 6.61741 17.1111 9.77778V13.4444C17.2976 14.9854 18.2049 16.3462 19.5556 17.1111H0C1.3507 16.3462 2.25792 14.9854 2.44444 13.4444V9.77778C2.59278 6.61741 4.47313 3.7969 7.33333 2.44444Z" fill="#93785B" />
+                    <path fillRule="evenodd" clipRule="evenodd" d="M6.10938 17.1111V18.3333C6.10938 20.3584 7.751 22 9.77604 22C11.8011 22 13.4427 20.3584 13.4427 18.3333V17.1111" fill="#93785B" />
                   </svg>
                 </div>
               </div>

@@ -27,7 +27,7 @@ import { ReactToast } from "../../@core/components/react-toast/ReactToast";
 
 function SecurityTabContent() {
   const { skin, setSkin } = useSkin();
-  const theming = `${skin === "dark" ? "#ffff" : "#177FFA"}`;
+  const theming = `${skin === "dark" ? "#ffff" : "#93785B"}`;
   const [state, setState] = useState({
     loading: false,
   });

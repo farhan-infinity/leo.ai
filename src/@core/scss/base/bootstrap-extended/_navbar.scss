@@ -384,11 +384,11 @@
         padding: 10px;
         .scroll-more {
           padding: 0.9rem 0.5rem;
-          border-bottom: 1px solid rgb(#177ffa, 0.2);
+          border-bottom: 1px solid rgb(#93785B, 0.2);
 
           &:hover {
             // border-radius: 20px;
-            background: rgb(#177ffa, 0.2);
+            background: rgb(#93785B, 0.2);
             color: black;
           }
         }
@@ -411,7 +411,7 @@
       .dropdown-list {
         .media-list {
           a {
-            border: 1px solid rgb(#177ffa, 0.1);
+            border: 1px solid rgb(#93785B, 0.1);
             border-radius: 20px;
           }
           .list-item {
@@ -420,9 +420,9 @@
             gap: 10px;
             flex-grow: 1;
             padding: 0.9rem 0.5rem;
-            border-bottom: 1px solid rgb(#177ffa, 0.2);
+            border-bottom: 1px solid rgb(#93785B, 0.2);
             &:hover {
-              background: rgb(#177ffa, 0.2);
+              background: rgb(#93785B, 0.2);
               color: black;
             }
             .list-item-content {
@@ -443,9 +443,9 @@
             gap: 10px;
             flex-grow: 1;
             padding: 0.9rem 0.5rem;
-            border-bottom: 1px solid rgb(#177ffa, 0.2);
+            border-bottom: 1px solid rgb(#93785B, 0.2);
             &:hover {
-              background: rgb(#177ffa, 0.2);
+              background: rgb(#93785B, 0.2);
               color: black;
             }
             .list-item-content {

@@ -5,7 +5,7 @@ const CancelSvg = () => {
     const { skin, setSkin } = useSkin();
     return (
         <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <path d="M2 2L18 18M2 18L18 2" stroke="#177FFA" strokeWidth="3.5" strokeLinecap="round" stroke-linejoin="round" />
+            <path d="M2 2L18 18M2 18L18 2" stroke="#93785B" strokeWidth="3.5" strokeLinecap="round" stroke-linejoin="round" />
         </svg>
     )
 }

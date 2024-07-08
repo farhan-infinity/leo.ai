@@ -82,7 +82,7 @@ const AccountTabs = ({ data }) => {
   const [formActive, setFormActive] = useState(true);
   const [loader, setLoader] = useState(false)
   const { skin } = useSkin();
-  const theming = `${skin === "dark" ? "#ffff" : "#177FFA"}`;
+  const theming = `${skin === "dark" ? "#ffff" : "#93785B"}`;
 
 
   const handleSubmit = async (values) => {
@@ -245,7 +245,7 @@ const AccountTabs = ({ data }) => {
               <div className="mt-70">
                 <div className="d-flex justify-content-around gap-1">
                   <div htmlFor="inputFile" className="button-bg-div dark-button-bg-div">
-                    <Label for="upload" style={{ background: "#177ffa", padding: "20px", marginTop: "5px", marginLeft: "5px", marginRight: "5px", borderRadius: "20px", cursor: "pointer" }}>
+                    <Label for="upload" style={{ background: "#93785B", padding: "20px", marginTop: "5px", marginLeft: "5px", marginRight: "5px", borderRadius: "20px", cursor: "pointer" }}>
                       <div style={{ color: "white" }}>Upload Photo</div>
                       <input disabled={formActive === true ? true : false} onChange={onChange} type="file" id="upload" style={{ display: "none" }} />
                     </Label>
@@ -510,7 +510,7 @@ const AccountTabs = ({ data }) => {
                         Save changes
                       </Button>
                       <Button
-                        style={{ borderRadius: "20px", border: (skin === 'dark' ? "none !important" : "1px solid #177FFA !important") }}
+                        style={{ borderRadius: "20px", border: (skin === 'dark' ? "none !important" : "1px solid #93785B !important") }}
                         color="secondary"
                         outline
                         onClick={() => setFormActive(true)}

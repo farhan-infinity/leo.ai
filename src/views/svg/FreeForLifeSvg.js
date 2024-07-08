@@ -604,7 +604,7 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint5_linear_560_113041" x1="50.705" y1="19.4543" x2="59.5116" y2="19.4543" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -746,7 +746,7 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint17_linear_560_113041" x1="44.4884" y1="-0.606439" x2="36.2262" y2="43.0517" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -815,13 +815,13 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint24_linear_560_113041" x1="26.1034" y1="13.3801" x2="34.1169" y2="13.3801" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint25_linear_560_113041" x1="0.00133107" y1="45.055" x2="48.6948" y2="45.055" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -1186,13 +1186,13 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint55_linear_560_113041" x1="31.9535" y1="31.9216" x2="35.7303" y2="30.1653" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint56_linear_560_113041" x1="34.9891" y1="30.47" x2="34.9762" y2="33.8311" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -1202,19 +1202,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint58_linear_560_113041" x1="32.3931" y1="29.9413" x2="38.1752" y2="32.4081" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint59_linear_560_113041" x1="33.0149" y1="29.6374" x2="36.2976" y2="32.6856" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint60_linear_560_113041" x1="35.8511" y1="28.8033" x2="34.5624" y2="30.2342" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -1228,19 +1228,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint63_linear_560_113041" x1="34.6713" y1="31.3604" x2="33.3334" y2="29.9899" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint64_linear_560_113041" x1="33.736" y1="36.7051" x2="35.4632" y2="32.919" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint65_linear_560_113041" x1="35.0972" y1="33.6312" x2="37.2715" y2="36.1967" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -1250,19 +1250,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint67_linear_560_113041" x1="32.7799" y1="34.9152" x2="38.776" y2="33.0263" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint68_linear_560_113041" x1="33.0566" y1="34.28" x2="37.5353" y2="34.4603" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint69_linear_560_113041" x1="34.669" y1="31.8052" x2="34.6184" y2="33.729" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -1276,19 +1276,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint72_linear_560_113041" x1="35.4356" y1="34.5151" x2="33.5268" y2="34.3441" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint73_linear_560_113041" x1="36.219" y1="33.1425" x2="39.9958" y2="31.3862" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint74_linear_560_113041" x1="39.2554" y1="31.6909" x2="39.2426" y2="35.0519" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -1298,19 +1298,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint76_linear_560_113041" x1="36.6575" y1="31.1623" x2="42.4395" y2="33.629" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint77_linear_560_113041" x1="37.2812" y1="30.8582" x2="40.5639" y2="33.9065" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint78_linear_560_113041" x1="40.1166" y1="30.0242" x2="38.8279" y2="31.4551" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -1324,19 +1324,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint81_linear_560_113041" x1="38.9368" y1="32.5813" x2="37.5989" y2="31.2108" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint82_linear_560_113041" x1="27.7661" y1="31.0768" x2="31.5429" y2="29.3206" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint83_linear_560_113041" x1="30.8018" y1="29.6252" x2="30.7889" y2="32.9863" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -1346,19 +1346,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint85_linear_560_113041" x1="28.2058" y1="29.0965" x2="33.9878" y2="31.5632" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint86_linear_560_113041" x1="28.8276" y1="28.7925" x2="32.1102" y2="31.8408" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint87_linear_560_113041" x1="31.6649" y1="27.9584" x2="30.3762" y2="29.3893" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -1372,19 +1372,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint90_linear_560_113041" x1="30.4839" y1="30.5155" x2="29.146" y2="29.145" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint91_linear_560_113041" x1="29.2442" y1="28.4143" x2="33.021" y2="26.658" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint92_linear_560_113041" x1="32.2806" y1="26.9627" x2="32.2678" y2="30.3237" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -1394,19 +1394,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint94_linear_560_113041" x1="29.6827" y1="26.4339" x2="35.4647" y2="28.9007" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint95_linear_560_113041" x1="30.3064" y1="26.1299" x2="33.5891" y2="29.1782" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint96_linear_560_113041" x1="33.1418" y1="25.2959" x2="31.8531" y2="26.7267" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -1420,19 +1420,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint99_linear_560_113041" x1="31.962" y1="27.853" x2="30.6241" y2="26.4825" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint100_linear_560_113041" x1="39.9944" y1="33.4056" x2="43.7713" y2="31.6493" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint101_linear_560_113041" x1="43.0309" y1="31.954" x2="43.0181" y2="35.3151" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -1442,19 +1442,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint103_linear_560_113041" x1="40.433" y1="31.4254" x2="46.215" y2="33.8921" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint104_linear_560_113041" x1="41.0567" y1="31.1214" x2="44.3394" y2="34.1697" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint105_linear_560_113041" x1="43.8921" y1="30.2874" x2="42.6034" y2="31.7182" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -1468,19 +1468,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint108_linear_560_113041" x1="42.7123" y1="32.8444" x2="41.3743" y2="31.4739" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint109_linear_560_113041" x1="24.2323" y1="24.189" x2="28.0091" y2="22.4327" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint110_linear_560_113041" x1="27.2688" y1="22.7373" x2="27.2559" y2="26.0984" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -1490,19 +1490,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint112_linear_560_113041" x1="24.6709" y1="22.2088" x2="30.4529" y2="24.6755" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint113_linear_560_113041" x1="25.2946" y1="21.9047" x2="28.5773" y2="24.9529" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint114_linear_560_113041" x1="28.13" y1="21.0708" x2="26.8413" y2="22.5016" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -1516,19 +1516,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint117_linear_560_113041" x1="26.9501" y1="23.6277" x2="25.6122" y2="22.2572" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint118_linear_560_113041" x1="20.9573" y1="22.0711" x2="24.7342" y2="20.3149" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint119_linear_560_113041" x1="23.993" y1="20.6194" x2="23.9801" y2="23.9805" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -1538,19 +1538,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint121_linear_560_113041" x1="21.397" y1="20.0909" x2="27.179" y2="22.5576" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint122_linear_560_113041" x1="22.0188" y1="19.7869" x2="25.3014" y2="22.8352" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint123_linear_560_113041" x1="24.8561" y1="18.9528" x2="23.5674" y2="20.3837" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -1564,19 +1564,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint126_linear_560_113041" x1="23.6751" y1="21.5098" x2="22.3372" y2="20.1393" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint127_linear_560_113041" x1="26.8913" y1="35.7011" x2="29.9855" y2="32.9153" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint128_linear_560_113041" x1="29.3672" y1="33.4243" x2="30.3392" y2="36.642" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -1586,19 +1586,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint130_linear_560_113041" x1="26.7306" y1="33.6794" x2="32.9829" y2="34.3403" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint131_linear_560_113041" x1="27.2353" y1="33.2064" x2="31.269" y2="35.1582" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint132_linear_560_113041" x1="29.7018" y1="31.5785" x2="28.8894" y2="33.3235" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -1612,19 +1612,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint135_linear_560_113041" x1="29.3239" y1="34.369" x2="27.6423" y2="33.4509" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint136_linear_560_113041" x1="30.1159" y1="32.4907" x2="33.7351" y2="34.5518" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint137_linear_560_113041" x1="33.0622" y1="34.1177" x2="30.3158" y2="36.0607" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -1634,19 +1634,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint139_linear_560_113041" x1="31.9851" y1="31.6986" x2="33.3303" y2="37.8324" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint140_linear_560_113041" x1="32.5946" y1="32.0287" x2="32.0204" y2="36.4684" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint141_linear_560_113041" x1="34.9213" y1="33.852" x2="33.007" y2="33.6308" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -1660,19 +1660,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint144_linear_560_113041" x1="32.1499" y1="34.3747" x2="32.488" y2="32.4907" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint145_linear_560_113041" x1="35.7676" y1="35.9561" x2="39.7859" y2="34.8575" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint146_linear_560_113041" x1="39.005" y1="35.0326" x2="38.4303" y2="38.3443" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -1682,19 +1682,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint148_linear_560_113041" x1="36.5317" y1="34.0773" x2="41.8176" y2="37.4772" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint149_linear_560_113041" x1="37.1976" y1="33.8817" x2="39.923" y2="37.4356" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint150_linear_560_113041" x1="40.1339" y1="33.5336" x2="38.6235" y2="34.7288" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -1708,19 +1708,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint153_linear_560_113041" x1="38.5407" y1="35.8571" x2="37.4513" y2="34.2824" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint154_linear_560_113041" x1="28.2874" y1="38.0469" x2="32.3057" y2="36.9483" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint155_linear_560_113041" x1="31.524" y1="37.1234" x2="30.9493" y2="40.4351" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -1730,19 +1730,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint157_linear_560_113041" x1="29.0515" y1="36.1681" x2="34.3374" y2="39.5681" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint158_linear_560_113041" x1="29.7166" y1="35.9724" x2="32.442" y2="39.5264" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint159_linear_560_113041" x1="32.6537" y1="35.6244" x2="31.1433" y2="36.8195" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -1756,19 +1756,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint162_linear_560_113041" x1="31.0605" y1="37.9479" x2="29.9711" y2="36.3732" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint163_linear_560_113041" x1="21.5796" y1="26.6306" x2="25.5979" y2="25.5319" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint164_linear_560_113041" x1="24.817" y1="25.7069" x2="24.2423" y2="29.0186" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -1778,19 +1778,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint166_linear_560_113041" x1="22.3437" y1="24.7515" x2="27.6296" y2="28.1515" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint167_linear_560_113041" x1="23.0097" y1="24.5559" x2="25.7351" y2="28.1098" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint168_linear_560_113041" x1="25.9459" y1="24.2079" x2="24.4355" y2="25.403" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -1804,19 +1804,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint171_linear_560_113041" x1="24.3527" y1="26.5314" x2="23.2633" y2="24.9567" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint172_linear_560_113041" x1="19.4295" y1="25.0464" x2="23.4477" y2="23.9478" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint173_linear_560_113041" x1="22.6669" y1="24.1229" x2="22.0922" y2="27.4345" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -1826,19 +1826,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint175_linear_560_113041" x1="20.1935" y1="23.1676" x2="25.4795" y2="26.5675" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint176_linear_560_113041" x1="20.8587" y1="22.972" x2="23.5841" y2="26.5259" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint177_linear_560_113041" x1="23.7958" y1="22.6239" x2="22.2854" y2="23.819" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -1852,19 +1852,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint180_linear_560_113041" x1="22.2025" y1="24.9474" x2="21.1132" y2="23.3727" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint181_linear_560_113041" x1="26.3587" y1="27.0942" x2="30.3769" y2="25.9956" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint182_linear_560_113041" x1="29.5961" y1="26.1707" x2="29.0214" y2="29.4824" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -1874,19 +1874,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint184_linear_560_113041" x1="27.1236" y1="25.2153" x2="32.4095" y2="28.6153" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint185_linear_560_113041" x1="27.7887" y1="25.0197" x2="30.5141" y2="28.5736" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint186_linear_560_113041" x1="30.725" y1="24.6717" x2="29.2146" y2="25.8668" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -1900,19 +1900,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint189_linear_560_113041" x1="29.1318" y1="26.9951" x2="28.0424" y2="25.4204" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint190_linear_560_113041" x1="22.3534" y1="37.4693" x2="26.3717" y2="36.3707" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint191_linear_560_113041" x1="25.5908" y1="36.5458" x2="25.0161" y2="39.8575" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -1922,19 +1922,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint193_linear_560_113041" x1="23.1175" y1="35.5904" x2="28.4034" y2="38.9903" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint194_linear_560_113041" x1="23.7835" y1="35.3949" x2="26.5088" y2="38.9488" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint195_linear_560_113041" x1="26.7197" y1="35.0469" x2="25.2093" y2="36.242" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -1948,19 +1948,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint198_linear_560_113041" x1="25.1265" y1="37.3703" x2="24.0371" y2="35.7956" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint199_linear_560_113041" x1="10.9292" y1="32.9168" x2="6.91096" y2="31.8182" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint200_linear_560_113041" x1="7.69137" y1="31.9932" x2="8.26604" y2="35.3048" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -1970,19 +1970,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint202_linear_560_113041" x1="10.1638" y1="31.038" x2="4.87793" y2="34.4379" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint203_linear_560_113041" x1="9.49895" y1="30.8422" x2="6.77356" y2="34.3961" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint204_linear_560_113041" x1="6.56298" y1="30.4942" x2="8.07339" y2="31.6893" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -1996,19 +1996,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint207_linear_560_113041" x1="8.15676" y1="32.8177" x2="9.24613" y2="31.243" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint208_linear_560_113041" x1="10.8026" y1="29.5991" x2="6.67258" y2="29.0526" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint209_linear_560_113041" x1="7.62026" y1="29.4607" x2="8.49885" y2="32.2338" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -2018,19 +2018,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint211_linear_560_113041" x1="9.79034" y1="27.8405" x2="5.01182" y2="31.9213" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint212_linear_560_113041" x1="9.10489" y1="27.736" x2="6.88336" y2="31.624" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint213_linear_560_113041" x1="6.14985" y1="27.7862" x2="7.80788" y2="28.767" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -2044,19 +2044,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint216_linear_560_113041" x1="8.04316" y1="29.869" x2="8.90395" y2="28.1749" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint217_linear_560_113041" x1="13.7093" y1="31.3334" x2="9.73246" y2="30.0938" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint218_linear_560_113041" x1="10.598" y1="30.6581" x2="10.9942" y2="33.5396" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -2066,19 +2066,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint220_linear_560_113041" x1="13.011" y1="29.4289" x2="7.6085" y2="32.6405" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint221_linear_560_113041" x1="12.3548" y1="29.2099" x2="9.50588" y2="32.6657" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint222_linear_560_113041" x1="9.43296" y1="28.7588" x2="10.9002" y2="30.0063" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -2092,19 +2092,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint225_linear_560_113041" x1="10.9458" y1="31.1323" x2="12.0814" y2="29.6083" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint226_linear_560_113041" x1="17.5434" y1="33.4984" x2="14.4459" y2="30.7163" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint227_linear_560_113041" x1="14.9958" y1="31.5905" x2="14.1579" y2="34.376" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -2114,19 +2114,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint229_linear_560_113041" x1="17.7029" y1="31.4765" x2="11.4515" y2="32.145" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint230_linear_560_113041" x1="17.1962" y1="31.0041" x2="13.1649" y2="32.9607" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint231_linear_560_113041" x1="14.7277" y1="29.3793" x2="15.5422" y2="31.1233" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -2140,19 +2140,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint234_linear_560_113041" x1="15.1145" y1="32.1664" x2="16.7824" y2="31.2532" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint235_linear_560_113041" x1="16.9198" y1="31.5447" x2="12.7897" y2="30.9982" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint236_linear_560_113041" x1="13.7374" y1="31.4063" x2="14.616" y2="34.1794" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -2162,19 +2162,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint238_linear_560_113041" x1="15.9075" y1="29.786" x2="11.129" y2="33.8668" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint239_linear_560_113041" x1="15.224" y1="29.6814" x2="13.0024" y2="33.5694" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint240_linear_560_113041" x1="12.267" y1="29.7317" x2="13.925" y2="30.7125" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -2188,19 +2188,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint243_linear_560_113041" x1="14.1622" y1="31.8145" x2="15.023" y2="30.1205" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint244_linear_560_113041" x1="19.8263" y1="33.2787" x2="15.8495" y2="32.0392" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint245_linear_560_113041" x1="16.715" y1="32.6035" x2="17.1112" y2="35.4849" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -2210,19 +2210,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint247_linear_560_113041" x1="19.128" y1="31.3742" x2="13.7255" y2="34.5858" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint248_linear_560_113041" x1="18.4718" y1="31.1552" x2="15.6229" y2="34.611" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint249_linear_560_113041" x1="15.55" y1="30.7041" x2="17.0172" y2="31.9516" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -2236,19 +2236,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint252_linear_560_113041" x1="17.0628" y1="33.0775" x2="18.1984" y2="31.5536" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint253_linear_560_113041" x1="23.6624" y1="35.4433" x2="20.5649" y2="32.6612" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint254_linear_560_113041" x1="21.1128" y1="33.5355" x2="20.275" y2="36.321" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -2258,19 +2258,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint256_linear_560_113041" x1="23.82" y1="33.4215" x2="17.5685" y2="34.09" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint257_linear_560_113041" x1="23.3133" y1="32.949" x2="19.2819" y2="34.9056" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint258_linear_560_113041" x1="20.8447" y1="31.3242" x2="21.6593" y2="33.0682" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -2284,19 +2284,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint261_linear_560_113041" x1="21.2315" y1="34.1113" x2="22.8995" y2="33.1981" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint262_linear_560_113041" x1="23.8173" y1="32.7988" x2="21.5536" y2="29.3062" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint263_linear_560_113041" x1="21.8563" y1="30.2928" x2="20.3209" y2="32.7642" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -2306,19 +2306,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint265_linear_560_113041" x1="24.4996" y1="30.8883" x2="18.2907" y2="29.9003" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint266_linear_560_113041" x1="24.1337" y1="30.3003" x2="19.7303" y2="31.1363" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint267_linear_560_113041" x1="22.1758" y1="28.0886" x2="22.5075" y2="29.9842" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -2332,19 +2332,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint270_linear_560_113041" x1="21.821" y1="30.88" x2="23.67" y2="30.434" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint271_linear_560_113041" x1="22.6022" y1="29.2368" x2="19.5461" y2="26.4094" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint272_linear_560_113041" x1="20.0826" y1="27.2914" x2="19.2038" y2="30.0644" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -2354,19 +2354,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint274_linear_560_113041" x1="22.7918" y1="27.2173" x2="16.531" y2="27.7935" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint275_linear_560_113041" x1="22.2917" y1="26.7375" x2="18.2318" y2="28.6346" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint276_linear_560_113041" x1="19.8472" y1="25.0765" x2="20.636" y2="26.8324" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -2380,19 +2380,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint279_linear_560_113041" x1="20.193" y1="27.8691" x2="21.8743" y2="26.9805" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint280_linear_560_113041" x1="19.2405" y1="27.5123" x2="16.1844" y2="24.685" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint281_linear_560_113041" x1="16.7198" y1="25.5671" x2="15.841" y2="28.34" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -2402,19 +2402,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint283_linear_560_113041" x1="19.4281" y1="25.493" x2="13.1673" y2="26.0692" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint284_linear_560_113041" x1="18.93" y1="25.0131" x2="14.8701" y2="26.9103" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint285_linear_560_113041" x1="16.4844" y1="23.3522" x2="17.2732" y2="25.108" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -2428,19 +2428,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint288_linear_560_113041" x1="16.8313" y1="26.1447" x2="18.5126" y2="25.2562" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint289_linear_560_113041" x1="27.038" y1="30.0193" x2="23.9818" y2="27.1919" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint290_linear_560_113041" x1="24.5184" y1="28.074" x2="23.6396" y2="30.847" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -2450,19 +2450,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint292_linear_560_113041" x1="27.2275" y1="28.0001" x2="20.9668" y2="28.5763" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint293_linear_560_113041" x1="26.7275" y1="27.5201" x2="22.6676" y2="29.4172" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint294_linear_560_113041" x1="24.283" y1="25.8591" x2="25.0718" y2="27.6149" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -2476,19 +2476,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint297_linear_560_113041" x1="24.6288" y1="28.6517" x2="26.31" y2="27.7631" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint298_linear_560_113041" x1="28.4343" y1="33.1483" x2="25.3781" y2="30.3209" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint299_linear_560_113041" x1="25.9147" y1="31.2032" x2="25.0359" y2="33.9761" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -2498,19 +2498,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint301_linear_560_113041" x1="28.6238" y1="31.1291" x2="22.3631" y2="31.7053" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint302_linear_560_113041" x1="28.1238" y1="30.6493" x2="24.0639" y2="32.5464" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint303_linear_560_113041" x1="25.6793" y1="28.9882" x2="26.4681" y2="30.744" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -2524,19 +2524,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint306_linear_560_113041" x1="26.0251" y1="31.7809" x2="27.7063" y2="30.8923" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint307_linear_560_113041" x1="26.5502" y1="32.8323" x2="27.1851" y2="36.9443" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint308_linear_560_113041" x1="27.0244" y1="36.1603" x2="29.8149" y2="34.2813" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -2546,19 +2546,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint310_linear_560_113041" x1="25.1436" y1="34.2958" x2="30.3991" y2="37.7429" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint311_linear_560_113041" x1="25.2349" y1="34.9818" x2="29.5937" y2="36.0265" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint312_linear_560_113041" x1="26.1146" y1="37.8012" x2="26.5879" y2="35.9356" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -2572,19 +2572,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint315_linear_560_113041" x1="27.6035" y1="35.4037" x2="25.6845" y2="35.0423" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint316_linear_560_113041" x1="25.0662" y1="31.8081" x2="25.7011" y2="35.9201" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint317_linear_560_113041" x1="25.5415" y1="35.1359" x2="28.3321" y2="33.2569" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -2594,19 +2594,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint319_linear_560_113041" x1="23.6607" y1="33.2717" x2="28.9162" y2="36.7187" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint320_linear_560_113041" x1="23.752" y1="33.9577" x2="28.1108" y2="35.0024" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint321_linear_560_113041" x1="24.6317" y1="36.7769" x2="25.105" y2="34.9113" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -2620,19 +2620,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint324_linear_560_113041" x1="26.1206" y1="34.3795" x2="24.2017" y2="34.0181" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint325_linear_560_113041" x1="26.539" y1="35.9857" x2="27.1739" y2="40.0977" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint326_linear_560_113041" x1="27.0143" y1="39.3135" x2="29.8049" y2="37.4345" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -2642,19 +2642,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint328_linear_560_113041" x1="25.1336" y1="37.4493" x2="30.389" y2="40.8963" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint329_linear_560_113041" x1="25.2249" y1="38.1353" x2="29.5837" y2="39.18" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint330_linear_560_113041" x1="26.1046" y1="40.9546" x2="26.5779" y2="39.0891" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -2668,19 +2668,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint333_linear_560_113041" x1="27.5935" y1="38.5571" x2="25.6745" y2="38.1958" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint334_linear_560_113041" x1="23.0856" y1="36.4622" x2="23.7205" y2="40.5742" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint335_linear_560_113041" x1="23.5609" y1="39.7902" x2="26.3515" y2="37.9112" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -2690,19 +2690,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint337_linear_560_113041" x1="21.6802" y1="37.9257" x2="26.9356" y2="41.3728" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint338_linear_560_113041" x1="21.7715" y1="38.6117" x2="26.1303" y2="39.6564" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint339_linear_560_113041" x1="22.6512" y1="41.4311" x2="23.1245" y2="39.5655" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -2716,19 +2716,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint342_linear_560_113041" x1="24.1401" y1="39.0336" x2="22.2211" y2="38.6722" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint343_linear_560_113041" x1="33.4711" y1="34.9896" x2="34.106" y2="39.1016" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint344_linear_560_113041" x1="33.9463" y1="38.3176" x2="36.7369" y2="36.4386" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -2738,19 +2738,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint346_linear_560_113041" x1="32.0655" y1="36.4532" x2="37.321" y2="39.9002" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint347_linear_560_113041" x1="32.1569" y1="37.1392" x2="36.5156" y2="38.1839" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint348_linear_560_113041" x1="33.0365" y1="39.9585" x2="33.5099" y2="38.093" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -2764,19 +2764,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint351_linear_560_113041" x1="34.5263" y1="37.5611" x2="32.6073" y2="37.1997" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint352_linear_560_113041" x1="20.2105" y1="37.1644" x2="16.6866" y2="34.9455" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint353_linear_560_113041" x1="17.3748" y1="35.714" x2="17.0192" y2="38.6006" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -2786,19 +2786,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint355_linear_560_113041" x1="20.0259" y1="35.1449" x2="13.9784" y2="36.8612" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint356_linear_560_113041" x1="19.4454" y1="34.7647" x2="15.8038" y2="37.3742" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint357_linear_560_113041" x1="16.7386" y1="33.5798" x2="17.8362" y2="35.1615" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -2812,19 +2812,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint360_linear_560_113041" x1="17.5906" y1="36.2615" x2="19.0798" y2="35.0797" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint361_linear_560_113041" x1="23.3004" y1="37.4473" x2="19.3236" y2="36.2078" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint362_linear_560_113041" x1="20.188" y1="36.7721" x2="20.5842" y2="39.6535" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -2834,19 +2834,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint364_linear_560_113041" x1="22.6021" y1="35.5426" x2="17.1996" y2="38.7542" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint365_linear_560_113041" x1="21.9459" y1="35.3238" x2="19.097" y2="38.7797" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint366_linear_560_113041" x1="19.023" y1="34.8728" x2="20.4902" y2="36.1203" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -2860,19 +2860,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint369_linear_560_113041" x1="20.5369" y1="37.2462" x2="21.6725" y2="35.7222" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint370_linear_560_113041" x1="20.7246" y1="31.8309" x2="17.3215" y2="29.4306" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint371_linear_560_113041" x1="17.9684" y1="30.2343" x2="17.4624" y2="33.0988" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -2882,19 +2882,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint373_linear_560_113041" x1="20.6446" y1="29.8044" x2="14.5146" y2="31.2019" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint374_linear_560_113041" x1="20.0869" y1="29.3943" x2="16.313" y2="31.8102" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint375_linear_560_113041" x1="17.4436" y1="28.0695" x2="18.457" y2="29.7065" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -2908,19 +2908,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint378_linear_560_113041" x1="18.1555" y1="30.7925" x2="19.7048" y2="29.69" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint379_linear_560_113041" x1="18.761" y1="28.297" x2="14.7796" y2="29.5215" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint380_linear_560_113041" x1="15.8091" y1="29.4942" x2="17.7626" y2="31.6513" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -2930,19 +2930,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint382_linear_560_113041" x1="17.1075" y1="27.1185" x2="14.4623" y2="32.8144" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint383_linear_560_113041" x1="16.4415" y1="27.3084" x2="16.0383" y2="31.7665" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint384_linear_560_113041" x1="13.7751" y1="28.583" x2="15.6915" y2="28.7837" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -2956,19 +2956,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint387_linear_560_113041" x1="16.3649" y1="29.689" x2="16.4432" y2="27.791" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint388_linear_560_113041" x1="14.0937" y1="35.2191" x2="10.5698" y2="33.0002" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint389_linear_560_113041" x1="11.258" y1="33.7689" x2="10.9024" y2="36.6555" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -2978,19 +2978,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint391_linear_560_113041" x1="13.9091" y1="33.1998" x2="7.86155" y2="34.916" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint392_linear_560_113041" x1="13.3297" y1="32.8194" x2="9.68807" y2="35.429" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint393_linear_560_113041" x1="10.6218" y1="31.6346" x2="11.7194" y2="33.2163" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -3004,19 +3004,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint396_linear_560_113041" x1="11.4738" y1="34.3164" x2="12.963" y2="33.1346" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint397_linear_560_113041" x1="17.1834" y1="35.5019" x2="13.2066" y2="34.2624" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint398_linear_560_113041" x1="14.071" y1="34.8268" x2="14.4672" y2="37.7082" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -3026,19 +3026,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint400_linear_560_113041" x1="16.4851" y1="33.5975" x2="11.0826" y2="36.8091" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint401_linear_560_113041" x1="15.8289" y1="33.3785" x2="12.98" y2="36.8344" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint402_linear_560_113041" x1="12.906" y1="32.9275" x2="14.3732" y2="34.175" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -3052,19 +3052,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint405_linear_560_113041" x1="14.4199" y1="35.3008" x2="15.5555" y2="33.7768" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint406_linear_560_113041" x1="14.6071" y1="29.8856" x2="11.204" y2="27.4852" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint407_linear_560_113041" x1="11.8509" y1="28.2889" x2="11.3449" y2="31.1534" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -3074,19 +3074,19 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint409_linear_560_113041" x1="14.5271" y1="27.8591" x2="8.39707" y2="29.2566" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint410_linear_560_113041" x1="13.9694" y1="27.4489" x2="10.1955" y2="29.8648" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <linearGradient id="paint411_linear_560_113041" x1="11.3261" y1="26.1241" x2="12.3395" y2="27.7611" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="0.5987" stopColor="#5A5CD3" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
@@ -3100,7 +3100,7 @@ const FreeForLifeSvg = () => {
                 </linearGradient>
                 <linearGradient id="paint414_linear_560_113041" x1="12.0381" y1="28.8471" x2="13.5873" y2="27.7446" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#54D86A" />
-                    <stop offset="0.2114" stopColor="#177FFA" />
+                    <stop offset="0.2114" stopColor="#93785B" />
                     <stop offset="1" stopColor="#FE315A" />
                 </linearGradient>
                 <radialGradient id="paint415_radial_560_113041" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(24.1506 38.9124) scale(11.4691 11.4537)">

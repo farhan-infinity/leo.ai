@@ -109,7 +109,7 @@ const TextToVideoGallery = () => {
                                     <ComponentSpinner style={{ width: "2rem", height: "2rem" }} />
                                 ) : (
                                     <div style={{ display: "flex", textAlign: "center", width: "100%", justifyContent: "center", color: "gray" }}>
-                                        You have not created any videos, visit<Link style={{ color: "#177FFA", fontWeight: "500" }} to={"/create-video"}>&nbsp;Create Video&nbsp;</Link> tab to start creating Text to videos
+                                        You have not created any videos, visit<Link style={{ color: "#93785B", fontWeight: "500" }} to={"/create-video"}>&nbsp;Create Video&nbsp;</Link> tab to start creating Text to videos
                                     </div>
                                 )}
                             </>

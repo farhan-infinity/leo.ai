@@ -203,7 +203,7 @@ const Sidebar = (props) => {
                     className="mb-3 mx-2 py-1"
                     style={{
                       background:
-                        "linear-gradient(90deg, #1970D7 -40.51%, #177FFA 100%)",
+                        "linear-gradient(90deg, #1970D7 -40.51%, #93785B 100%)",
                       // border: "1px solid white",
                       borderRadius: "20px",
                       cursor: "pointer",

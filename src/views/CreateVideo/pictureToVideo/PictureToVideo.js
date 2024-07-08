@@ -403,7 +403,7 @@ const PictureToVideo = () => {
                                     to="/upload-text"
                                     className={activeTab === 'tab1' ? "custom-button-active" : "custom-button-not-active"}
                                 >
-                                    <PresenterSvg color={activeTab === 'tab1' ? "#ffffff" : "#177ffa"} />
+                                    <PresenterSvg color={activeTab === 'tab1' ? "#ffffff" : "#93785B"} />
                                     <CardText>Choose a presenter</CardText>
                                 </NavLink>
                                 <NavLink
@@ -411,7 +411,7 @@ const PictureToVideo = () => {
                                     className={activeTab === 'tab2' ? "custom-button-active" : "custom-button-not-active"}
                                     onClick={() => toggleTab('tab2')}
                                 >
-                                    <AIPresenterSvg color={activeTab === 'tab2' ? "#ffffff" : "#177ffa"} />
+                                    <AIPresenterSvg color={activeTab === 'tab2' ? "#ffffff" : "#93785B"} />
                                     <CardText>Choose an AI presenter</CardText>
                                 </NavLink>
                             </div>
@@ -422,7 +422,7 @@ const PictureToVideo = () => {
                                     <div className="d-flex flex-nowrap overflow-hidden gap-2 justify-content-start">
                                         <div className="image-item-container dark-image-item-container">
                                             <div onClick={handlePresenterClick} className="image-item d-flex justify-content-center flex-column shadow-sm cursor-pointer hover:shadow-lg align-content-center align-items-center shadow-4"
-                                                style={{ minWidth: "105px", minHeight: "105px", gap: "1px", backgroundColor: "#177ffa" }}>
+                                                style={{ minWidth: "105px", minHeight: "105px", gap: "1px", backgroundColor: "#93785B" }}>
                                                 <Plus className="text-white mt-1" style={{ width: "15px" }} />
                                                 <CardText className="text-white font-small-4">ADD</CardText>
                                                 <Input
@@ -466,7 +466,7 @@ const PictureToVideo = () => {
                                             type="button"
                                             onClick={() => handleAIPresenterOpen()}
                                             className="image-item d-flex justify-content-center flex-column shadow-sm cursor-pointer hover:shadow-lg align-content-center align-items-center shadow-4"
-                                            style={{ minWidth: "105px", minHeight: "105px", gap: "1px", backgroundColor: "#177ffa !important" }}
+                                            style={{ minWidth: "105px", minHeight: "105px", gap: "1px", backgroundColor: "#93785B !important" }}
                                             invalid={formik.touched.source &&
                                                 formik.errors.source ? true : false}
                                         >
@@ -682,7 +682,7 @@ const PictureToVideo = () => {
                                                 to="/upload-text"
                                                 className={activeTab2 === 'tab3' ? "custom-button-active" : "custom-button-not-active"}
                                             >
-                                                <TextSvg color={activeTab2 === 'tab3' ? "#ffffff" : "#177ffa"} />
+                                                <TextSvg color={activeTab2 === 'tab3' ? "#ffffff" : "#93785B"} />
                                                 <CardText>Type Your Script</CardText>
                                             </NavLink>
                                             <NavLink
@@ -690,7 +690,7 @@ const PictureToVideo = () => {
                                                 className={activeTab2 === 'tab4' ? "custom-button-active" : "custom-button-not-active"}
                                                 onClick={() => toggleTab2('tab4')}
                                             >
-                                                <VoiceSvg color={activeTab2 === 'tab4' ? "#ffffff" : "#177ffa"} />
+                                                <VoiceSvg color={activeTab2 === 'tab4' ? "#ffffff" : "#93785B"} />
                                                 <CardText>Upload Voice Audio</CardText>
                                             </NavLink>
                                         </div>

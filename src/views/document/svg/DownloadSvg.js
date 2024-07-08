@@ -23,7 +23,7 @@ const DownloadSvg = () => {
                 </filter>
                 <linearGradient id="paint0_linear_1725_112955" x1="-52.9231" y1="46" x2="200" y2="46" gradientUnits="userSpaceOnUse">
                     <stop stopColor="#1970D7" />
-                    <stop offset="1" stopColor="#177FFA" />
+                    <stop offset="1" stopColor="#93785B" />
                 </linearGradient>
             </defs>
         </svg>

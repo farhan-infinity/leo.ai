@@ -12,7 +12,7 @@ const NotificationSvg = () => {
             <defs>
                 <linearGradient id="paint0" x1="-29.5744" y1="38" x2="73" y2="38" gradientUnits="userSpaceOnUse">
                     <stop stop-color="#1970D7" />
-                    <stop offset="1" stop-color="#177FFA" />
+                    <stop offset="1" stop-color="#93785B" />
                 </linearGradient>
             </defs>
         </svg>

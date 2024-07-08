@@ -28,7 +28,7 @@ body::-webkit-scrollbar-track {
 }
 body::-webkit-scrollbar-thumb {
   border-radius: 20px;
-  background: #177ffa;
+  background: #93785B;
 }
 // Vertical Menu
 // ========================================================================
@@ -196,9 +196,9 @@ body #root .wrapper .ps__rail-y {
 .content-header {
   .content-header-title {
     font-weight: 700;
-    color: #177ffa;
+    color: #93785B;
     padding-right: $spacer;
-    border-right: 1px solid lighten(#177ffa, 10%);
+    border-right: 1px solid lighten(#93785B, 10%);
   }
   .content-header-right {
     .dropdown-toggle:after {

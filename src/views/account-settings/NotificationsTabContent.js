@@ -8,7 +8,7 @@ const NotificationsTabContent = () => {
     const localData = JSON.parse(localStorage.getItem("user_data"));
     const [show, setShow] = useState(false);
     const { skin, setSkin } = useSkin();
-    const theming = `${skin === "dark" ? "#ffff" : "#177FFA"}`;
+    const theming = `${skin === "dark" ? "#ffff" : "#93785B"}`;
     const background = `${skin === "dark" ? "#0000" : "#EDF5FF"}`;
     return (
         <>

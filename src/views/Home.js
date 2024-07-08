@@ -67,7 +67,7 @@ const HomeComponent = () => {
 
   const columnColors = {
     series1: "#FE315A",
-    series2: "#177FFA",
+    series2: "#93785B",
   };
 
   // ** Chart Options
@@ -479,7 +479,7 @@ const HomeComponent = () => {
                         <div
                           style={{
                             background:
-                              "linear-gradient(100.5deg, #177FFA -1.26%, #7E7FE3 121.02%)",
+                              "linear-gradient(100.5deg, #93785B -1.26%, #7E7FE3 121.02%)",
                             boxShadow: "0px 4px 18px rgba(75, 70, 92, 0.1)",
                             borderRadius: "20px",
                             paddingTop: "10px"

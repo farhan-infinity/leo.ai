@@ -196,7 +196,7 @@
   font-size: 32px;
   line-height: 22px;
   /* identical to box height, or 69% */
-  color: #177ffa;
+  color: #93785B;
 }
 
 .breadcrumb-right {
@@ -485,7 +485,7 @@
 }
 .added-cards::-webkit-scrollbar-thumb {
   border-radius: 20px;
-  background: #177ffa;
+  background: #93785B;
 }
 
 .cards {
@@ -568,7 +568,7 @@
 
 .script::-webkit-scrollbar-thumb {
   border-radius: 20px;
-  background: #177ffa;
+  background: #93785B;
 }
 
 .breadcrumb-right {
@@ -621,7 +621,7 @@
       justify-content: center;
       gap: 5px;
       align-items: center;
-      background-color: #177ffa;
+      background-color: #93785B;
       color: white;
       @media screen and (max-width: 1024px) {
         padding: 17px;
@@ -635,7 +635,7 @@
       gap: 5px;
       align-items: center;
       background-color: #dbebff;
-      color: #177ffa;
+      color: #93785B;
       @media screen and (max-width: 1024px) {
         padding: 17px;
       }
@@ -660,7 +660,7 @@
       justify-content: center;
       gap: 5px;
       align-items: center;
-      background-color: #177ffa;
+      background-color: #93785B;
       color: white;
     }
     .custom-button-not-active {
@@ -671,7 +671,7 @@
       gap: 5px;
       align-items: center;
       background-color: #dbebff;
-      color: #177ffa;
+      color: #93785B;
     }
   }
 }
@@ -864,7 +864,7 @@
     .custom-table-row {
       padding: 10px;
       border: 1px solid rgb(white, 0.5);
-      background-color: rgba(#177ffa, 0.1);
+      background-color: rgba(#93785B, 0.1);
       border-radius: 23px;
       display: flex;
       flex-direction: row;
@@ -929,7 +929,7 @@
           cursor: pointer;
           transition: background-color 0.2s, border 0.2s, color 0.2s,
             transform 0.2s;
-          background-color: rgb(#177ffa, 0.1);
+          background-color: rgb(#93785B, 0.1);
           border: 1px solid tgb(white, 0.5);
           color: black;
         }
@@ -1064,7 +1064,7 @@
         .custom-billing-row {
           padding: 10px;
           border: 1px solid rgb(white, 0.5);
-          background-color: rgba(#177ffa, 0.1);
+          background-color: rgba(#93785B, 0.1);
           border-radius: 23px;
           display: flex;
           flex-direction: row;
@@ -1143,7 +1143,7 @@
               cursor: pointer;
               transition: background-color 0.2s, border 0.2s, color 0.2s,
                 transform 0.2s;
-              background-color: rgb(#177ffa, 0.1);
+              background-color: rgb(#93785B, 0.1);
               border: 1px solid tgb(white, 0.5);
               color: black;
             }
@@ -1298,7 +1298,7 @@
         .custom-credit-row {
           padding: 10px;
           border: 1px solid rgb(white, 0.5);
-          background-color: rgba(#177ffa, 0.1);
+          background-color: rgba(#93785B, 0.1);
           border-radius: 23px;
           display: flex;
           flex-direction: row;
@@ -1341,7 +1341,7 @@
               cursor: pointer;
               transition: background-color 0.2s, border 0.2s, color 0.2s,
                 transform 0.2s;
-              background-color: rgb(#177ffa, 0.1);
+              background-color: rgb(#93785B, 0.1);
               border: 1px solid tgb(white, 0.5);
               color: black;
             }
@@ -1427,20 +1427,20 @@
 }
 
 .text-blue {
-  color: #177ffa;
+  color: #93785B;
 }
 
 .container {
   .audio-container {
     border-radius: 20px;
-    background-color: #177ffa;
+    background-color: #93785B;
   }
 }
 
 // Wave Surfer styles
 
 #wave-button {
-  background: #177ffa;
+  background: #93785B;
   color: white;
   border: none;
   width: 60px;
@@ -1452,7 +1452,7 @@
 }
 
 #wave-button:hover {
-  background: #177ffa;
+  background: #93785B;
 }
 
 .btn-icon-delete {

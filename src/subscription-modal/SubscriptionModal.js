@@ -136,7 +136,7 @@ export const SubscriptionModal = () => {
                       color={billType === 'monthly' ? "primary" : "secondary"}
                       onClick={() => setBillType('monthly')}
                       className="image-item d-flex justify-content-center flex-column shadow-sm cursor-pointer hover:shadow-lg align-content-center align-items-center shadow-4 px-3 py-2"
-                      style={{ backgroundColor: "#177ffa !important" }}
+                      style={{ backgroundColor: "#93785B !important" }}
                     >
                       Bil Monthly
                     </Button>
@@ -144,7 +144,7 @@ export const SubscriptionModal = () => {
                       color={billType === 'yearly' ? "primary" : "secondary"}
                       onClick={() => setBillType('yearly')}
                       className="image-item d-flex justify-content-center flex-column shadow-sm cursor-pointer hover:shadow-lg align-content-center align-items-center shadow-4 px-3 py-2"
-                      style={{ backgroundColor: "#177ffa !important" }}
+                      style={{ backgroundColor: "#93785B !important" }}
                     >
                       Bil Yearly
                     </Button>

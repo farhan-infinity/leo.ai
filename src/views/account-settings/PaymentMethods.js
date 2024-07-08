@@ -81,7 +81,7 @@ const data = [
 
 const PaymentMethods = () => {
   const { skin, setSkin } = useSkin();
-  const theming = `${skin === "dark" ? "#ffff" : "#177FFA"}`;
+  const theming = `${skin === "dark" ? "#ffff" : "#93785B"}`;
   const dispatch = useDispatch()
   // ** States
   const [show, setShow] = useState(false);
