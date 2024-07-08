@@ -1,7 +1,5 @@
 // ** React Imports
 import React, { useEffect, useState } from "react";
-import ClatterLogo from "../../src/assets/images/logo/Leo-logo-full.png";
-import Clatterdark from "../../src/assets/images/logo/Leo-Logo-02.png";
 import { Link, useLocation, useNavigate } from "react-router-dom";
 import ImgeLogo from "../../src/assets/images/avatars/Login-sectionsWHITE3.jpg";
 import authPosterForDarkLayout from "../../src/assets/images/pages/auth-poster-dark-layout.png";
@@ -113,13 +111,6 @@ const Register = () => {
     <div className="register-maim-dev register-page">
       <Card className="register-card m-0">
         <Col xs="10" sm="10" md="10" lg="10">
-          <CardBody className="px-0">
-            <img
-              className="brand-full-logo"
-              src={skin === "dark" ? Clatterdark : ClatterLogo}
-              alt="logo"
-            />
-          </CardBody>
 
           <div className="auth-register-form mt-2">
 

@@ -1,7 +1,5 @@
 // ** React Imports
 import { Link } from 'react-router-dom'
-import ClatterLogo from "../../src/assets/images/logo/Leo-logo-full.png";
-import Clatterdark from "../../src/assets/images/logo/Leo-Logo-02.png";
 // ** Illustrations Imports
 import illustrationsLight from "@src/assets/images/pages/register-v2.svg";
 import illustrationsDark from "@src/assets/images/pages/register-v2-dark.svg";
@@ -77,13 +75,6 @@ const Forgot = () => {
             <div className='auth-inner my-2' >
                 <Card className='mb-0' style={{ maxWidth: "460px", width: "100%" }}>
                     <CardBody>
-                        <CardBody className="px-0">
-                            <img
-                                className="brand-full-logo"
-                                src={skin === "dark" ? Clatterdark : ClatterLogo}
-                                alt="logo"
-                            />
-                        </CardBody>
                         <CardTitle tag='h4' className='mb-1'>
                             Forgot Password 🔒
                         </CardTitle>

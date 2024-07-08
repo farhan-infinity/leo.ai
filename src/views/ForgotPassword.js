@@ -97,13 +97,6 @@ const ForgotPassword = () => {
       <div className='auth-inner my-2'>
         <Card className='mb-0'>
           <CardBody>
-            <CardBody className="px-0">
-              <img
-                className="brand-full-logo"
-                src={skin === "dark" ? Clatterdark : ClatterLogo}
-                alt="logo"
-              />
-            </CardBody>
             <CardTitle tag='h4' className='mb-1'>
               Reset Password 🔒
             </CardTitle>

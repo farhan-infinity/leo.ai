@@ -90,18 +90,6 @@ const Login = () => {
           <div className="login-main-dev">
             <Card className="mb-0 login-content">
               <CardBody className="form-body">
-                <Link
-                  className="brand-logo"
-                  to="/"
-                  onClick={(e) => e.preventDefault()}
-                >
-                  <img
-                    className="brand-full-logo"
-                    style={{ height: "46px", width: "150px" }}
-                    src={skin === "dark" ? Clatterdark : ClatterLogo}
-                    alt="logo"
-                  />
-                </Link>
                 <CardTitle tag="h4" className="mb-1">
                   Welcome to Leo! 👋
                 </CardTitle>
