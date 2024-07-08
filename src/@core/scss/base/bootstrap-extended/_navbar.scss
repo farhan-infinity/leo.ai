@@ -17,7 +17,7 @@
 }
 
 .header-navbar {
-  padding: 0px;
+  padding: 1rem 1.2rem;
   min-height: $navbar-height;
   font-family: $font-family-monospace;
   transition: 300ms ease all, background 0s;
@@ -581,7 +581,9 @@
 .navbar-floating {
   // Floating nav should have same padding across all screen
   .navbar-container:not(.main-menu-content) {
-    padding: 1.2rem 1rem;
+    border-radius: 4rem;
+    border: 2px solid $theme-dark-border-color;
+    background-color: $theme-dark-component-bg;
   }
   .header-navbar-shadow {
     display: block;

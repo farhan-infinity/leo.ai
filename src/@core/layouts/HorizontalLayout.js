@@ -20,8 +20,6 @@ import themeConfig from "@configs/themeConfig";
 
 import Customizer from "@components/customizer";
 import ScrollToTop from "@components/scrolltop";
-import NavbarComponent from "./components/navbar";
-import FooterComponent from "./components/footer";
 import MenuComponent from "./components/menu/horizontal-menu";
 
 // ** Custom Hooks
@@ -136,7 +134,7 @@ const HorizontalLayout = (props) => {
               <NavItem>
                 <Link to="/" className="navbar-brand">
                   <span className="brand-logo">
-                    <img src={themeConfig.app.appLogoImage} alt="logo" />
+                    <img src={themeConfig.app.appLogoImage} alt="logo_horizontal" />
                   </span>
                   <h2 className="brand-text mb-0">{themeConfig.app.appName}</h2>
                 </Link>

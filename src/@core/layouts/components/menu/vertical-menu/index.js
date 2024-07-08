@@ -105,7 +105,7 @@ const Sidebar = (props) => {
           <Fragment>
             {/* Vertical Menu Header */}
             <VerticalMenuHeader
-              setGroupOpen={setGroupOpen}
+              // setGroupOpen={setGroupOpen}
               menuHover={menuHover}
               {...props}
             />

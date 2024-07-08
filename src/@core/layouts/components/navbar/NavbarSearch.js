@@ -94,7 +94,7 @@ const NavbarSearch = ({ setSearchInput, searchInput }) => {
           open: navbarSearch === true
         })}
       >
-        <div className='theme-button dark-theme-button'>
+        <div className=''>
           <div className='search-input-icon'>
             <Icon.Search />
           </div>

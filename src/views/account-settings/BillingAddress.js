@@ -120,7 +120,7 @@ const BillingAddress = () => {
   };
 
   return (
-    <Card className="custom-card-5 dark-theme-custom-card-5 h-100 w-100" style={{ boxShadow: "none" }}>
+    <Card className="child-card dark-theme-child-card h-100 w-100 px-2" style={{ boxShadow: "none" }}>
       <CardHeader>
         <CardTitle tag="h4" style={{ color: `${theming}` }}>
           <div onClick={() => setFormActive(!formActive)} className="cursor-pointer" style={{ display: "flex", gap: "15px", justifyContent: "center", alignContent: "center", alignItems: "center", textAlign: "center" }}>
@@ -132,7 +132,7 @@ const BillingAddress = () => {
 
       <CardBody className="my-2 py-50 p-0">
         <Form onSubmit={handleSubmit(onSubmit)}>
-          <div className="custom-card-5 dark-theme-custom-card-5">
+          <div className="child-card dark-theme-inner-child-card p-2">
             <Row>
               <Col sm='12' md={6} xl={6} xxl={6} className="mb-2">
                 <Label className="form-label" for="companyName">

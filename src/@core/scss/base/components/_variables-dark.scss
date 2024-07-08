@@ -15,11 +15,11 @@
 //  ================================================================================================
 
 //Body
-$theme-dark-black: #000000 !default;
-$theme-dark-body-bg: #131313 !default;
+$theme-dark-black: #3b4253 !default;
+$theme-dark-body-bg: #212A31 !default;
 $theme-dark-body-color: #b4b7bd !default;
 $theme-light-dark-body-bg: #3b4253 !default;
-$theme-dark-border-color: #353535 !default;
+$theme-dark-border-color: #2E3944 !default;
 $theme-blue-border-color: #177ffa !default;
 $theme-dark-custom-control-border-color: #44405e !default;
 $theme-dark-design-black: rgba(#282828, 76%) !default;
@@ -30,19 +30,19 @@ $theme-dark-label-color: #ffffff !default;
 $theme-dark-text-muted-color: #676d7d !default;
 
 //Card
-$theme-dark-card-bg: #000000 !default;
+$theme-dark-card-bg: #3b4253 !default;
 $theme-dark-light-black: #3939392a !default;
 $theme-dark-component-bg: #3939392a !default;
-$theme-dark-border: #353535 !default;
-$theme-dark-light-black-border: #353535 !default;
-$theme-dark-component-border: #353535 !default;
+$theme-dark-border: #2E3944 !default;
+$theme-dark-light-black-border: #2E3944 !default;
+$theme-dark-component-border: #2E3944 !default;
 $theme-dark-child-card-bg: #3939392d !default;
 $theme-dark-inner-child-card-bg: #0c0c0c !default;
 $theme-dark-box-shadow: 0 4px 24px 0 rgba($black, 0.24);
 
 //Input
-$theme-dark-input-bg: #131313 !default;
-$theme-dark-input-placeholder-color: #676d7d !default;
+$theme-dark-input-bg: #748D92 !default;
+$theme-dark-input-placeholder-color: #ffffff !default;
 $theme-dark-input-border-color: #404656 !default;
 $theme-dark-input-disabled-bg: #24233a !default;
 $theme-dark-input-disabled-border-color: #444b60 !default;
@@ -58,7 +58,7 @@ $theme-dark-table-row-bg: #283046 !default;
 $theme-dark-table-hover-bg: #242b3d !default;
 $theme-dark-table-striped-bg: #242b3d !default;
 
-$theme-dark-modal-header-bg: #131313 !default;
+$theme-dark-modal-header-bg: #212A31 !default;
 $theme-dark-pagination-bg: #242b3d !default;
 $theme-dark-chart-bg: #384056 !default;
 $theme-dark-widget-bg: #384056 !default;

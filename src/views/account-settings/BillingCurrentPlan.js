@@ -151,7 +151,7 @@ const BillingCurrentPlan = () => {
                   </div>
                 </Col>
                 <Col sm="12" md={6}>
-                  <div className="child-card dark-theme-child-card w-100 h-100 p-2">
+                  <div className="child-card dark-theme-inner-child-card w-100 h-100 p-2">
                     <div
                       className="child-card dark-theme-child-card h-100 w-100 p-2"
                       style={{ backgroundColor: `${background}` }}

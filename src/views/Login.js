@@ -211,7 +211,7 @@ const Login = () => {
                   color="primary"
                   block
                   onClick={() => navigate("/home")}
-                  >Skip</Button>
+                  >Skip Login</Button>
                 </div>
               </CardBody>
             </Card>

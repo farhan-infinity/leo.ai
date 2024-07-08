@@ -10,48 +10,48 @@ import themeConfig from "@configs/themeConfig";
 import logDark from "../../../../../../src/assets/images/logo/Leo-logo-text-white.png";
 // ** Utils
 import { getUserData, getHomeRouteForLoggedInUser } from "@utils";
-import { useSkin } from "@hooks/useSkin";
+// import { useSkin } from "@hooks/useSkin";
 const VerticalMenuHeader = (props) => {
   // ** Props
-  const { skin } = useSkin();
+  // const { skin } = useSkin();
   const {
-    menuCollapsed,
-    setMenuCollapsed,
-    setMenuVisibility,
-    setGroupOpen,
-    menuHover,
+    // menuCollapsed,
+    // setMenuCollapsed,
+    // setMenuVisibility,
+    // setGroupOpen,
+    // menuHover,
   } = props;
 
   // ** Vars
   const user = getUserData();
 
   // ** Reset open group
-  useEffect(() => {
-    if (!menuHover && menuCollapsed) setGroupOpen([]);
-  }, [menuHover, menuCollapsed]);
+  // useEffect(() => {
+  //   if (!menuHover && menuCollapsed) setGroupOpen([]);
+  // }, [menuHover, menuCollapsed]);
 
   // ** Menu toggler component
-  const Toggler = () => {
-    if (!menuCollapsed) {
-      return (
-        <Disc
-          size={20}
-          data-tour="toggle-icon"
-          className="text-primary toggle-icon d-none d-xl-block"
-          onClick={() => setMenuCollapsed(true)}
-        />
-      );
-    } else {
-      return (
-        <Circle
-          size={20}
-          data-tour="toggle-icon"
-          className="text-primary toggle-icon d-none d-xl-block"
-          onClick={() => setMenuCollapsed(false)}
-        />
-      );
-    }
-  };
+  // const Toggler = () => {
+  //   if (!menuCollapsed) {
+  //     return (
+  //       <Disc
+  //         size={20}
+  //         data-tour="toggle-icon"
+  //         className="text-primary toggle-icon d-none d-xl-block"
+  //         onClick={() => setMenuCollapsed(true)}
+  //       />
+  //     );
+  //   } else {
+  //     return (
+  //       <Circle
+  //         size={20}
+  //         data-tour="toggle-icon"
+  //         className="text-primary toggle-icon d-none d-xl-block"
+  //         onClick={() => setMenuCollapsed(false)}
+  //       />
+  //     );
+  //   }
+  // };
 
   return (
     <div className="navbar-header">
@@ -62,13 +62,13 @@ const VerticalMenuHeader = (props) => {
             className="navbar-brand"
           >
             <span className="brand-logo">
-              <img src={themeConfig.app.appLogoImage} alt="logo" />
+              <img src={themeConfig.app.appLogoImage} alt="logo_vertical" />
             </span>
             <h2 className="brand-text archivoblack primary-dark-black mb-0 pl-0">
               {/* <img src={themeConfig.app.appLogoImage} alt="logo" /> */}
               <img
                 style={{ color: "white"}}
-                src={skin == "dark" ? logDark : themeConfig.app.appLogoName}
+                src={logDark}
                 alt="logo"
               />
             </h2>

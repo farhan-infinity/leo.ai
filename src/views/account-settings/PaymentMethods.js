@@ -144,7 +144,7 @@ const PaymentMethods = () => {
 
   return (
     <Fragment>
-      <Card className="custom-card-5 dark-theme-custom-card-5 h-100 w-100" style={{ boxShadow: "none" }}>
+      <Card className="child-card dark-theme-child-card h-100 w-100" style={{ boxShadow: "none" }}>
         <CardHeader>
           <CardTitle tag="h4" style={{ color: `${theming}` }}>
             Payment Methods
@@ -156,7 +156,7 @@ const PaymentMethods = () => {
             <Col lg="6">
               <Row>
                 <div
-                  className="custom-card-5 dark-theme-custom-card-5 h-100">
+                  className="child-card dark-theme-inner-child-card h-100 p-2">
                   <div className="d-flex mt-1 mb-1 gap-2 h-100">
                     {/* <div className="form-check"> */}
 
@@ -275,7 +275,7 @@ const PaymentMethods = () => {
               lg="6"
             >
               {cardData?.data.length ? (
-                <div className="custom-card-5 dark-theme-custom-card-5">
+                <div className="child-card dark-theme-child-card">
                   <CardHeader>
                     <CardTitle>
                       My Cards

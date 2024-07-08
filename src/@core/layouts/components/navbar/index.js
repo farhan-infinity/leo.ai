@@ -42,7 +42,7 @@ const ThemeNavbar = (props) => {
 
       <NavbarUser skin={skin} setSkin={setSkin} />
 
-      <div
+      {/* <div
         className="theme-button dark-theme-button"
         style={{ marginLeft: "10px" }}
       >
@@ -54,7 +54,7 @@ const ThemeNavbar = (props) => {
             {skin === 'light' ? <Sun className="ficon" /> : <Moon />}
           </NavLink>
         </NavItem>
-      </div>
+      </div> */}
     </Fragment>
   );
 };

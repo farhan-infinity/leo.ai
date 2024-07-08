@@ -7,7 +7,7 @@ import logoName from "@src/assets/images/logo/Leo-logo-text.png";
 //Template config options
 const themeConfig = {
   app: {
-    appName: "Leo",
+    appName: "Leo AI",
     appLogoImage: logo,
     appLogoName: logoName,
   },
