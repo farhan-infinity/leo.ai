@@ -108,14 +108,12 @@ export const SubscriptionModal = () => {
                 {userData?.subscriptionStatus === "expired" ? (
                   <b className="Subscribtion-text dark-Subscription-text">
                     Your Subscribtion has been
-                    <br />
                     Expired Please Update !
                   </b>
                 ) : null}
                 {userData?.subscriptionStatus !== "expired" ? (
                   <b className="Subscribtion-text dark-Subscription-text">
                     We have following packages
-                    <br />
                     Available for you !!
                   </b>
                 ) : null}
